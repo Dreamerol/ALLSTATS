@@ -8,10 +8,7 @@
 𝗙𝗨𝗟𝗟 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗
 </h2>
 
-<p align="center">
-  <h2>∫ data → systems ✨</h2>
-</p>
-
+<h2 align="center"><strong>∫ data → systems ✨</strong></h2>
 
 
 <br>

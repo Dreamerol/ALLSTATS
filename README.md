@@ -12,10 +12,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=ayu_mirage" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=ayu_mirage" />
-</p>
 
 
 ---

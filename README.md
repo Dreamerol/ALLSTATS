@@ -1,23 +1,3 @@
-<h1 align="center"><b>🔥 DREAMEROL - GITHUB STATS 🔥</b></h1>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=radical" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=radical" />
-    </td>
-  </tr>
-</table>
-
-
----
-
-
-
 
 
 <h1 align="center"><b>🔥 DREAMEROL - GITHUB STATS 🔥</b></h1>

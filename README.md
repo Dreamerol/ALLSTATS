@@ -1,4 +1,12 @@
 
+<p align="center">
+  <img src="https://img.shields.io/badge/RATING-A%2B-ff006e?style=for-the-badge&logo=starship&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/Dreamerol?style=for-the-badge&color=ffd700&label=STARS" />
+  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=00d4ff" />
+</p>
+
+---
+
 <h1 align="center"><b>🔥 DREAMEROL - GITHUB STATS 🔥</b></h1>
 
 <br>

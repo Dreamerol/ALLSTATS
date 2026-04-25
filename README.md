@@ -5,13 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff7a18" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RATING-A%2B-ff006e?style=for-the-badge&logo=starship&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/Dreamerol?style=for-the-badge&color=ffd700&label=STARS" />
-  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=00d4ff" />
-</p>
 
 ---
 
@@ -21,9 +15,12 @@
 
 <!-- STARS + PROFILE VIEWS -->
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Dreamerol?label=STARS&style=for-the-badge&color=ffcc00" />
-  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/badge/RATING-A%2B-ff6a00?style=for-the-badge&logo=starship&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/Dreamerol?style=for-the-badge&color=ffb000&label=STARS" />
+  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff7a18" />
 </p>
+
+
 
 <br>
 

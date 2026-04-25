@@ -2,6 +2,24 @@
 
 ---
 
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
+
+
+
+
+
+
+
+
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=0e75b6" />
 </p>

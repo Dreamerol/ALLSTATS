@@ -1,5 +1,24 @@
 
+<br>
 
+<!-- STARS + PROFILE VIEWS -->
+<p align="center">
+  <b>⭐ STARS</b> &nbsp;
+  <img src="https://img.shields.io/github/stars/Dreamerol?style=for-the-badge&color=ffb000&label=" />
+  
+  &nbsp;&nbsp;&nbsp;
+  
+  <b>🅰️ RATING A+</b> &nbsp;
+  <img src="https://img.shields.io/badge/RATING-A%2B-ff6a00?style=for-the-badge&logo=starship&logoColor=white" />
+  
+  &nbsp;&nbsp;&nbsp;
+  
+  <b>👁️ VIEWS</b> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff7a18" />
+</p>
+
+
+---
 
 <h1 align="center"><b>🔥 DREAMEROL - GITHUB STATS 🔥</b></h1>
 

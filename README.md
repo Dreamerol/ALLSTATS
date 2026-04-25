@@ -2,7 +2,7 @@
 <h1 align="center">FULL ANALYTICS DASHBOARD</h1>
 
 
-<h2 align="center"><b>🔥 DREAMEROL - GITHUB STATS 🔥</b></h2>
+<h1 align="center"><b>🔥 DREAMEROL - GITHUB STATS 🔥</b></h1>
 
 <br>
 

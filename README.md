@@ -2,6 +2,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamerol&layout=pie&theme=radical" />
+</p>
+
+
+
+---
+
 
 
 

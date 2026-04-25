@@ -1,4 +1,4 @@
-<h1 align="center"># GITHUB-STATS</h1>
+<h2 align="center"><b>📊 GITHUB STATS</b></h2>
 
 ---
 

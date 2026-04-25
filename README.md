@@ -3,6 +3,26 @@
 
 ---
 
+
+<h1 align="center"><b>🔥 DREAMEROL - GITHUB STATS 🔥</b></h1>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=radical" width="49%" />
+</p>
+
+<p align="left">
+📊 Top Languages (by repositories)<br>
+⚡ Most Used Languages (commits)
+</p>
+
+
+
+
+
+
+---
+
 <h1 align="center"><b>🔥 DREAMEROL - GITHUB STATS 🔥</b></h1>
 
 <p align="center">
@@ -10,9 +30,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=radical" width="48%" />
 </p>
 
-<div align="left" style="margin-left: 12px;">
-  <h3>📊 Languages Overview</h3>
-  <h3>⚡ Most Used in Commits</h3>
+
 </div>
 
 

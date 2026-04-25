@@ -7,10 +7,25 @@
 
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=radical" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=radical" width="49%" />
-</p>
+
+<h1 align="center"><b>🔥 DREAMEROL - GITHUB STATS 🔥</b></h1>
+
+<br><br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>📊 TOP Languages</b><br><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=radical" />
+    </td>
+
+    <td align="center">
+      <b>⚡ Most Used (Commits)</b><br><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=radical" />
+    </td>
+  </tr>
+</table>
+
 
 
 

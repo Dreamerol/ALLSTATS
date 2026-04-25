@@ -1,5 +1,21 @@
 <h1 align="center"><b>📊 GITHUB STATS</b></h1>
 
+
+---
+
+<h1 align="center"><b>🔥 DREAMEROL - GITHUB STATS 🔥</b></h1>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=radical" width="48%" />
+</p>
+
+<div align="left" style="margin-left: 12px;">
+  <h3>📊 Languages Overview</h3>
+  <h3>⚡ Most Used in Commits</h3>
+</div>
+
+
 ---
 
 <p align="center">

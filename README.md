@@ -1,5 +1,5 @@
 
-<h1 align="center">📊 FULL ANALYTICS DASHBOARD</h1>
+<h1 align="center">FULL ANALYTICS DASHBOARD</h1>
 
 
 <h1 align="center"><b>🔥 DREAMEROL - GITHUB STATS 🔥</b></h1>

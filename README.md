@@ -1,4 +1,7 @@
 
+<h1 align="center">📊 DREAMEROL - FULL ANALYTICS DASHBOARD</h1>
+
+---
 
 <h1 align="center"><b>🔥 DREAMEROL - GITHUB STATS 🔥</b></h1>
 

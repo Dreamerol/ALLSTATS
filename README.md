@@ -78,6 +78,15 @@
 
 
 
+<!-- MAIN STATS -->
+<p align="center">
+
+  <img height="180em" src="https://streak-stats.demolab.com?user=Dreamerol&theme=radical&hide_border=true" />
+</p>
+
+<br>
+
+
 
 <!-- MAIN STATS -->
 <p align="center">

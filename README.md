@@ -1,10 +1,10 @@
 
-<h1 align="center">
+<h2 align="center">
 📊 𝗙𝗨𝗟𝗟 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗 
-</h1>
+</h2>
 
 
-![](https://github.com/Dreamerol/Dreamerol/blob/956700822da6498a7a778b6591a251eb2852048b/zzzzzzzzzzzzzzzzzzzDATA777.png)
+![](https://github.com/Dreamerol/Dreamerol/blob/956700822da6498a7a778b6591a251eb2852048b/zzzzzDATA222.jpg)
 
 
 
@@ -44,9 +44,9 @@
 
 ---
 
-<h1 align="center"><b>🔥 𝗗𝗥𝗘𝗔𝗠𝗘𝗥𝗢𝗟 - 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h1>
+<h2 align="center"><b>🔥 𝗗𝗥𝗘𝗔𝗠𝗘𝗥𝗢𝗟 - 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h2>
 
-<h1 align="center"><strong>∫ data → systems ✨</strong></h1>
+<h2 align="center"><strong>∫ data → systems ✨</strong></h2>
 
 
 

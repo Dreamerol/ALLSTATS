@@ -21,9 +21,7 @@
 
 </div>
 
-
 ---
-
 
 <p align="center">
   
@@ -79,7 +77,7 @@
 
 
 
----
+
 
 <!-- MAIN STATS -->
 <p align="center">

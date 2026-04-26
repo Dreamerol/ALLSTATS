@@ -62,7 +62,7 @@
 <h2 align="center"><strong>∫ data → systems ✨</strong></h2>
 
 
-
+---
 
 
 
@@ -72,7 +72,7 @@
 </p>
 
 
-
+---
 
 <!-- LANGUAGES (CORE IDENTITY) -->
 <p align="center">
@@ -83,7 +83,7 @@
 <br>
 
 
-
+---
 
 
 

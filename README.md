@@ -55,14 +55,16 @@
   <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff7a18" />
 </p>
 
-
+<br>
 
 <h2 align="center"><b>🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h2>
 
 <h2 align="center"><strong>∫ data → systems ✨</strong></h2>
 
+<br>
 
----
+
+<br>
 
 
 
@@ -71,7 +73,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dreamerol&theme=radical" width="98%" />
 </p>
 
-
+<br>
 
 
 <!-- LANGUAGES (CORE IDENTITY) -->

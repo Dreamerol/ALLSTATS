@@ -72,7 +72,7 @@
 </p>
 
 
----
+
 
 <!-- LANGUAGES (CORE IDENTITY) -->
 <p align="center">
@@ -83,7 +83,7 @@
 <br>
 
 
----
+
 
 
 

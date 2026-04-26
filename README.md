@@ -77,16 +77,6 @@
 
 
 
-<!-- MAIN STATS -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dreamerol&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=Dreamerol&theme=radical&hide_border=true" />
-</p>
-
-<br>
-
-
-
 <!-- LANGUAGES (CORE IDENTITY) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=radical" width="49%" />

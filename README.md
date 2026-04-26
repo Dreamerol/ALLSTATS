@@ -68,6 +68,17 @@
 
 <br>
 
+
+
+
+<!-- EXTRA STATS -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dreamerol&theme=radical" width="98%" />
+</p>
+
+
+
+
 <!-- LANGUAGES (CORE IDENTITY) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=radical" width="49%" />

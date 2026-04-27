@@ -8,18 +8,8 @@
 <br>
 
 
-<br>
+![](https://github.com/Dreamerol/Dreamerol/blob/956700822da6498a7a778b6591a251eb2852048b/zzzzzDATA222.jpg)
 
-
-<div align="center">
-
-  <img   src="https://github.com/Dreamerol/Dreamerol/blob/23b5b434e97414ff80d21d7bbf2460baf4ef9d63/ZZZZZZZZZZZZZZZBANNER_SWE_DATA_22.PNG?raw=true"
-     width="100%"/>
-
-</div>
-
-
-<br>
 
 
 ---
@@ -162,9 +152,18 @@
 
 </div>
 
+<br>
+
+<div align="center">
+
+  <img   src="https://github.com/Dreamerol/Dreamerol/blob/23b5b434e97414ff80d21d7bbf2460baf4ef9d63/ZZZZZZZZZZZZZZZBANNER_SWE_DATA_22.PNG?raw=true"
+     width="100%"/>
+
+</div>
 
 
-![](https://github.com/Dreamerol/Dreamerol/blob/956700822da6498a7a778b6591a251eb2852048b/zzzzzDATA222.jpg)
+<br>
+
 
 
 

@@ -113,6 +113,10 @@
 
 <br>
 
+<br>
+
+<br>
+
 
 
 <!-- ACTIVITY GRAPH -->
@@ -124,9 +128,7 @@
 
 <br>
 
-<br>
 
-<br>
 
 
 <p align="center">

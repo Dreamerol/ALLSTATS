@@ -76,6 +76,22 @@
 <br>
 
 
+<!-- STARS + PROFILE VIEWS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/RATING-A%2B-ff6a00?style=for-the-badge&logo=starship&logoColor=white" />
+  
+  <img src="https://img.shields.io/github/stars/Dreamerol?style=for-the-badge&color=ffb000&label=STARS" />
+  
+  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff7a18" />  
+</p>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
 
 <!-- EXTRA STATS -->
 <p align="center">
@@ -83,9 +99,7 @@
 </p>
 
 <br>
-
 <br>
-
 <br>
 
 
@@ -95,8 +109,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=radical" width="49%" />
 </p>
 
-<br>
 
+<br>
 
 <br>
 
@@ -113,7 +127,7 @@
 
 <br>
 
-
+<br>
 
 
 <p align="center">

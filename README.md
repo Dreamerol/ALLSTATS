@@ -57,7 +57,7 @@
 
 <br>
 
-<h2 align="center"><b>🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h2>
+<h1 align="center"><b>🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h1>
 
 <h2 align="center"><strong>∫ data → systems ✨</strong></h2>
 

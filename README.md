@@ -101,6 +101,19 @@
 
 <br>
 
+<h1 align="center">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔</h1>
+
+<h2 align="center">
+𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 │ 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 │ ∫ 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 ✨
+</h2>
+
+<h2 align="center">
+  Sofia University “St. Kliment Ohridski” (FMI)
+</h2>
+
+
+<br>
+
 <br>
 
 <div align="center">

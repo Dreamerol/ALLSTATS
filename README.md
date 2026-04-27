@@ -118,7 +118,7 @@
 </h2>
 
 <h2 align="center">
-  Sofia University “St. Kliment Ohridski” (FMI)
+  Sofia University “St. Kliment Ohridski” 
 </h2>
 
 

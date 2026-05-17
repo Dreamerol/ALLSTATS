@@ -49,7 +49,7 @@
 
 
 
-<br>
+
 
 <br>
 
@@ -92,7 +92,6 @@
 
 
 
-<br>
 
 <br>
 
@@ -113,7 +112,7 @@
   Sofia University “St. Kliment Ohridski” 
 </h2>
 
-<br>
+
 
 
 <br>
@@ -130,7 +129,7 @@
 
 <br>
 
-<br>
+
 
 
 <!-- ACTIVITY GRAPH -->

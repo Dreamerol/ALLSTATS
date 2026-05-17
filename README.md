@@ -91,6 +91,18 @@
 
 <br>
 
+<p align="center">
+
+ <img src="https://img.shields.io/github/followers/Dreamerol?label=FOLLOWERS&style=for-the-badge&color=ff6a00&logo=github&logoColor=white" />
+
+ <img src="https://img.shields.io/github/commit-activity/t/Dreamerol/DELIVERY-DATA-SQL-SYSTEM?label=TOTAL%20COMMITS&style=for-the-badge&color=ff6a00&logo=github&logoColor=white" />
+
+ <img src="https://img.shields.io/badge/Total%20Contributions-3.28k%2B-ff6a00?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
+
+<br>
+
 
 <p align="center">
   
@@ -141,6 +153,7 @@
 </p>
 
 
+<br>
 
 
 ---

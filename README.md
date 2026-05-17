@@ -151,11 +151,11 @@
 
 </p>
 
-
-
+<p align="center">
+  <i>Built with passion for data, systems and ML 🚀</i>
+</p>
 
 ---
-
 
 
 <p align="center">
@@ -194,7 +194,6 @@
 
 
 ---
-
 
 
 

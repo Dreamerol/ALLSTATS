@@ -44,7 +44,6 @@
 </p>
 
 
-
 ---
 
 
@@ -65,10 +64,6 @@
 
 
 
-
-
-
-
 <h1 align="center"><b>🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h1>
 
 <h2 align="center"><strong>∫ data → systems ✨</strong></h2>
@@ -77,17 +72,11 @@
 
 
 
-
-
-
-
 <!-- LANGUAGES (CORE IDENTITY) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=radical" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=radical" width="49%" />
 </p>
-
-
 
 
 
@@ -111,8 +100,6 @@
 </h2>
 
 
-
-
 <br>
 
 <div align="center">
@@ -123,10 +110,7 @@
 </div>
 
 
-
-
 <br>
-
 
 
 
@@ -136,7 +120,7 @@
 </p>
 
 
-<br>
+---
 
 <br>
 
@@ -175,7 +159,6 @@
 
 
 
-
 ---
 
 <div align="center">
@@ -193,7 +176,7 @@
 ---
 
 <p align="center">
-  <i>Built with passion for data, systems and ML 🚀</i>
+ <i>Built with passion for data, systems and ML 🚀</i>
 </p>
 
 

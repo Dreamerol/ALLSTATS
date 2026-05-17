@@ -79,9 +79,6 @@
 <br>
 
 
-<br>
-
-
 
 <!-- LANGUAGES (CORE IDENTITY) -->
 <p align="center">
@@ -91,8 +88,6 @@
 
 
 
-
-<br>
 
 <br>
 

@@ -172,17 +172,6 @@
 
 
 
-<p align="center">
-
-  <img src="https://img.shields.io/github/commit-activity/t/Dreamerol/DELIVERY-DATA-SQL-SYSTEM?label=TOTAL%20COMMITS&style=for-the-badge&color=ff6a00&logo=github&logoColor=white" />
-
-  <img src="https://img.shields.io/github/followers/Dreamerol?label=FOLLOWERS&style=for-the-badge&color=ff6a00&logo=github&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=PUBLIC%20REPOS&query=public_repos&url=https://api.github.com/users/Dreamerol&color=ff6a00&logo=github&logoColor=white" />
-
-</p>
-
-
 <br>
 
 <br>

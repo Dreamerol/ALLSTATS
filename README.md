@@ -92,8 +92,10 @@
 
 
 
+<br>
 
 
+<br>
 
 <br>
 <br>
@@ -145,10 +147,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dreamerol&theme=tokyo-night&hide_border=true" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dreamerol&theme=react-dark&hide_border=true&area=true" width="98%"/>
-</p>
 
 <br>
 

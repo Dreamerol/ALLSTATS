@@ -1,8 +1,8 @@
 
 
-<h2 align="center">
+<h1 align="center">
 📊 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗
-</h2>
+</h1>
 
 
 

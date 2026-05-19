@@ -58,14 +58,17 @@
 <br>
 
 
-
 <div align="center">
 
-<h1 align="center">
+<h2 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-    👉 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
+    👉 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 | 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
   </a>
-</h1>
+</h2>
+
+
+<br>
+
 
 
 <h2 align="center">

@@ -221,7 +221,7 @@
  <i>Built with passion for data, systems and ML 🚀</i>
 </p>
 
-<br>
+---
 
 <p align="center">
   🔗 Explore more on my GitHub profile: 

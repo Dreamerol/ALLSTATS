@@ -216,9 +216,22 @@
 
 <br>
 
+<br>
+
 <p align="center">
- <i>Built with passion for data, systems and ML 🚀</i>
+  🔗 Explore more on my GitHub portfolio: 
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026" target="_blank">
+    github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026
+  </a>
+  
 </p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 
 

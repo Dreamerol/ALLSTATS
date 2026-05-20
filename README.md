@@ -64,7 +64,7 @@
 
 <h1 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-    👉 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 | 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
+    👉 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥
   </a>
 </h1>
 

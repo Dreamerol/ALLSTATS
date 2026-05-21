@@ -115,8 +115,6 @@
 
 <br>
 
-<br>
-
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">

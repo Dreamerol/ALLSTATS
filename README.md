@@ -1,6 +1,6 @@
 
- <img src="https://img.shields.io/github/stars/Dreamerol/SOFTWARE-PORTFOLIO-2026?style=for-the-badge&label=STARS&color=ff6a00" />
 
+<br>
 
 <h1 align="center">
 📊 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗

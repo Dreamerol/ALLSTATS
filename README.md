@@ -1,5 +1,5 @@
 
- <img src="https://img.shields.io/github/stars/Dreamerol/SOFTWARE-PORTFOLIO-2026?style=for-the-  badge&label=STARS&color=ff6a00" />
+ <img src="https://img.shields.io/github/stars/Dreamerol/SOFTWARE-PORTFOLIO-2026?style=for-the-badge&label=STARS&color=ff6a00" />
 
 
 <h1 align="center">

@@ -1,8 +1,8 @@
 
 
-<h1 align="center">
+<h2 align="center">
 📊 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗
-</h1>
+</h2>
 
 <br>
 
@@ -97,11 +97,11 @@
 
 <div align="center">
 
-<h1 align="center">
+<h2 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
     🟢 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥
   </a>
-</h1>
+</h2>
 
 
 <h2 align="center">

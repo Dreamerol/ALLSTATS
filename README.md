@@ -103,11 +103,11 @@
 
 
 <h2 align="center">
-Python • SQL • Data Analysis • Machine Learning
+𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 • 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
 </h2>
 
 <h2 align="center">
-  𝗙𝗠𝗜 • Sofia University “St. Kliment Ohridski”
+  𝗙𝗠𝗜 — 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”
 </h2>
 
 

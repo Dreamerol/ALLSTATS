@@ -97,7 +97,7 @@
 
 <h2 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-    🟢 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗙𝗠𝗜
+    🟢 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥
   </a>
 </h2>
 
@@ -107,7 +107,7 @@ Python • SQL • Data Analysis • Machine Learning
 </h2>
 
 <h2 align="center">
-  Sofia University “St. Kliment Ohridski” 
+  𝗙𝗠𝗜 • Sofia University “St. Kliment Ohridski”
 </h2>
 
 

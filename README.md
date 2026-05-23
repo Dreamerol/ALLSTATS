@@ -111,6 +111,15 @@
 </h2>
 
 
+<br>
+
+<div align="center">
+
+  <img   src="https://github.com/Dreamerol/Dreamerol/blob/23b5b434e97414ff80d21d7bbf2460baf4ef9d63/ZZZZZZZZZZZZZZZBANNER_SWE_DATA_22.PNG?raw=true"
+     width="100%"/>
+
+</div>
+
 
 <br>
 
@@ -119,6 +128,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dreamerol&theme=tokyo-night&hide_border=true" />
 </p>
+
 
 
 ---

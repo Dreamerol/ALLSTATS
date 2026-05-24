@@ -123,7 +123,7 @@
 </div>
 
 
-<br>
+
 
 
 <!-- ACTIVITY GRAPH -->

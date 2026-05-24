@@ -136,7 +136,7 @@
 
 
 
-<br>
+
 
 
 <h2 align="center"> 
@@ -232,8 +232,7 @@
 </div>
 
 
-
-
+<br>
 
 <p align="center">
   🔗 Explore more on my GitHub portfolio: 

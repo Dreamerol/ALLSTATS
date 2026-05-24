@@ -231,8 +231,7 @@
 
 </div>
 
-
-<br>
+---
 
 <p align="center">
   🔗 Explore more on my GitHub portfolio: 

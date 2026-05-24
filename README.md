@@ -85,13 +85,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=tokyonight" width="49%"/>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=blueberry" width="49%"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=blueberry" width="49%"/>
-</p>
 
 <br><br>
 

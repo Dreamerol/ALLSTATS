@@ -80,7 +80,11 @@
 
 
 
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=tokyonight" width="49%"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dreamerol&theme=tokyonight" width="49%"/>
+</p>
 
 
 

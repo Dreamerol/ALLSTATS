@@ -100,7 +100,7 @@
 
 ## Python • SQL • Data Analysis • Machine Learning │ ∫ data → systems ✨
 
-## 🎓 <a href="https://www.uni-sofia.bg" target="_blank">Sofia University “St. Kliment Ohridski”</a>
+##  <a href="https://www.uni-sofia.bg" target="_blank">Sofia University “St. Kliment Ohridski”</a>
 
 </div>
 

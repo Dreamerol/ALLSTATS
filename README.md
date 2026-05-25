@@ -90,6 +90,22 @@
 
 
 
+<br>
+
+<div align="center">
+
+## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
+
+## Python • SQL • Data Analysis • Machine Learning
+
+## ∫ data → systems ✨
+
+<br>
+
+
+
+
+
 <div align="center">
 
 <h2 align="center">
@@ -100,7 +116,7 @@
 
 
 <h2 align="center">
-𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 │ ∫ 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 
+Python • SQL • Data Analysis • Machine Learning │ ∫ 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 
 </h2>
 
 <h2 align="center">

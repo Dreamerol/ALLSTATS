@@ -92,6 +92,7 @@
 
 <br>
 
+
 <div align="center">
 
 ## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
@@ -100,31 +101,10 @@
 
 ## Sofia University “St. Kliment Ohridski” 
 
-<br>
-
-
-
-
-
-<div align="center">
-
-<h2 align="center">
-  <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-    🟢 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥
-  </a>
-</h2>
-
-
-<h2 align="center">
-Python • SQL • Data Analysis • Machine Learning │ ∫ 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 ✨
-</h2>
-
-<h2 align="center">
-  Sofia University “St. Kliment Ohridski” 
-</h2>
-
 
 <br>
+
+
 
 <div align="center">
 

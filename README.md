@@ -116,7 +116,7 @@
 
 
 <h2 align="center">
-Python • SQL • Data Analysis • Machine Learning │ ∫ 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 
+Python • SQL • Data Analysis • Machine Learning │ ∫ 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 ✨
 </h2>
 
 <h2 align="center">

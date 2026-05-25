@@ -97,7 +97,7 @@
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
+## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">🟢 𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
 
 ## Python • SQL • Data Analysis • Machine Learning 
 

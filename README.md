@@ -99,9 +99,11 @@
 
 ## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">🟢 𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
 
+##  <a href="https://www.uni-sofia.bg" target="_blank">Sofia University “St. Kliment Ohridski”</a>
+
 ## Python • SQL • Data Analysis • Applied ML ∫ data → systems ✨
 
-##  <a href="https://www.uni-sofia.bg" target="_blank">Sofia University “St. Kliment Ohridski”</a>
+## ∫ data → systems ✨
 
 </div>
 

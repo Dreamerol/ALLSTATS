@@ -22,7 +22,7 @@
 🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> • 
 🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a> • 
 🧩 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">𝗥𝗘𝗣𝗢𝗦</a> • 
-✅ <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">𝗥𝗘𝗦𝗨𝗠𝗘</a> • 
+✅ <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">𝗥𝗘𝗦𝗨𝗠𝗘</a>
 
 </span>
 

@@ -70,7 +70,7 @@
   
 <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
 
-<img src="https://img.shields.io/badge/APPLIED%20ML-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+
 
 
 <img src="https://img.shields.io/badge/APPLIED•ML-6B7280?style=for-the-badge&logo=github&logoColor=white" />

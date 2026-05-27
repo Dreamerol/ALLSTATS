@@ -63,8 +63,13 @@
   <img src="https://img.shields.io/badge/ML-FF006E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Algorithms-FD7F2C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OOP-38B000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/APIs-A78BFA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-60A5FA?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </p>
+
+
 
 ---
 

@@ -2,6 +2,7 @@
 
 
 
+
 <h1 align="center">
 📊 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗
 </h1>
@@ -40,14 +41,21 @@
   <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
   <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
   <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
- 
-
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 
 </div>
 
+
 <hr>
+
 
 
 <br>
@@ -55,10 +63,9 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/ACTIVE-CONTRIBUTOR-ff6a00?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-ff6a00?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff6a00" />  
-
+  <img src="https://img.shields.io/badge/ACTIVE-CONTRIBUTOR-ff6a00?style=for-the-badge&logo=github&logoColor=white" />
 
 </p>
 
@@ -66,32 +73,23 @@
 <br>
 
 
-<h1 align="center"><b>🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b><h1>
-  
-<div align="center">
+<h1 align="center"><b>🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h1>
 
-##### ∫ data → systems ✨
-
-</div>
-
-
+<h2 align="center"><strong>∫ data → systems ✨</strong></h2>
 
 <br>
 
 
 
-<div align="center">
-
-<img 
-  src="https://github.com/Dreamerol/Dreamerol/blob/4a545eaaef50d8ee986bdd338b2211c22387eefa/LANGUAGES7.PNG" 
-/>
-
-</div>
+<!-- LANGUAGES (CORE IDENTITY) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=radical" width="49%" />
+</p>
 
 
 
-
-
+<br>
 
 
 
@@ -110,8 +108,6 @@
 
 
 <br>
-
-
 
 
 
@@ -240,10 +236,6 @@
 <br>
 <br>
 <br>
-
-
-
-
 
 
 

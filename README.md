@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Git-FF7043?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-4FC3F7?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-66BB6A?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend_Systems-26A69A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend_Systems-FF4D6D?style=for-the-badge"/>
 
 
 </p>

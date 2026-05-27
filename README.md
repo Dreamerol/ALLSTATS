@@ -37,35 +37,6 @@
 
 
 
-
-<p align="center">
-  
-<img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/APPLIED ML-BACKEND-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=1f6feb" />
-
-</p>
-
-
-
-<br><br>
-
-
-
-
-![](https://github.com/Dreamerol/Dreamerol/blob/4a545eaaef50d8ee986bdd338b2211c22387eefa/LANGUAGES7.PNG)
-
-</div>
-
-
-
-
-
-<br>
-
-
-
-
 <div align="center">
 
 ## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">🟢 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
@@ -90,6 +61,33 @@
      width="100%"/>
 
 </div>
+
+
+<br>
+
+
+
+<p align="center">
+  
+<img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/APPLIED ML-BACKEND-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=1f6feb" />
+
+</p>
+
+
+
+<br><br>
+
+
+
+
+![](https://github.com/Dreamerol/Dreamerol/blob/4a545eaaef50d8ee986bdd338b2211c22387eefa/LANGUAGES7.PNG)
+
+</div>
+
+
+
 
 
 <br>

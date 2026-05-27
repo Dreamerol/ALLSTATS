@@ -76,15 +76,21 @@
 
 <br><br>
 
+
+
 <div align="center">
 
-# 📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 </a>
+# 📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 
 
 ## ∫ data → systems
 
 </div>
 
+
+
 <br>
+
+
 
 
 ![](https://github.com/Dreamerol/Dreamerol/blob/4a545eaaef50d8ee986bdd338b2211c22387eefa/LANGUAGES7.PNG)

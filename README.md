@@ -67,10 +67,7 @@
 
 
 <p align="center">
-
-
-<img src="https://img.shields.io/badge/APPLIED%20ML-6B7280?style=for-the-badge&logo=github&logoColor=white" />
-  
+ 
 <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/APPLIED ML-BACKEND SYSTEMS-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=1f6feb" />

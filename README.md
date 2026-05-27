@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-📊 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗
+📊 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗 - 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 </h1>
 
 <br>
@@ -65,13 +65,6 @@
 
 
 
-<div align="center">
-
-<h1 align="center">
-  <a href="https://github.com/Dreamerol/GITHUB-STATS">
-    <b>📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</b>
-  </a>
-</h1>
 
 <div align="center">
 

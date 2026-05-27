@@ -80,26 +80,20 @@
 
 
 
+<div align="center">
 
-
-![](https://github.com/Dreamerol/Dreamerol/blob/c747d1c150770224fc9779248173f51402fb91cf/LANGUAGES2.PNG)
+<img 
+  src="https://github.com/Dreamerol/Dreamerol/blob/c747d1c150770224fc9779248173f51402fb91cf/LANGUAGES2.PNG" 
+  width="100%" 
+/>
 
 </div>
-
-
-
-<!-- AURA -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=aura" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=aura" width="49%" />
-</p>
 
 
 
 
 
 <br>
-
 
 
 <div align="center">

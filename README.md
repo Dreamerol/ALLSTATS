@@ -141,9 +141,9 @@
 <br>
 
 
-<h2 lign="center"> 
+<h2 align="center"> 
  👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
-  <em>Explore the projects below</em>
+  <em>Explore the projects below & discover more</em>
  </a>
 </h2>
 

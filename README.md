@@ -81,12 +81,12 @@
 
 
 
-<!-- LANGUAGES (CORE IDENTITY) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=radical" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dreamerol&theme=radical" width="49%" />
-</p>
+<br>
 
+
+![](https://github.com/Dreamerol/Dreamerol/blob/4a545eaaef50d8ee986bdd338b2211c22387eefa/LANGUAGES7.PNG)
+
+</div>
 
 
 <br>

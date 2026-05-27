@@ -64,6 +64,14 @@
 
 
 
+![](https://github.com/Dreamerol/Dreamerol/blob/4a545eaaef50d8ee986bdd338b2211c22387eefa/LANGUAGES7.PNG)
+
+</div>
+
+
+
+
+
 <br>
 
 
@@ -103,18 +111,6 @@
 
   <img   src="https://github.com/Dreamerol/Dreamerol/blob/23b5b434e97414ff80d21d7bbf2460baf4ef9d63/ZZZZZZZZZZZZZZZBANNER_SWE_DATA_22.PNG?raw=true"
      width="100%"/>
-
-</div>
-
-
-<br>
-
-
-
-
-
-
-![](https://github.com/Dreamerol/Dreamerol/blob/4a545eaaef50d8ee986bdd338b2211c22387eefa/LANGUAGES7.PNG)
 
 </div>
 

@@ -55,23 +55,6 @@
 
 <hr>
 
-
-<br>
-
-
-
-<div align="center">
-
-<img 
-  src="https://github.com/Dreamerol/Dreamerol/blob/4a545eaaef50d8ee986bdd338b2211c22387eefa/LANGUAGES7.PNG" 
-/>
-
-</div>
-
-
-
-
-
 <br>
 
 
@@ -89,6 +72,25 @@
 
 
 <h1 align="center"><b>🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h1>
+
+
+
+<br>
+
+
+
+<div align="center">
+
+<img 
+  src="https://github.com/Dreamerol/Dreamerol/blob/4a545eaaef50d8ee986bdd338b2211c22387eefa/LANGUAGES7.PNG" 
+/>
+
+</div>
+
+
+
+
+
 
 
 

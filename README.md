@@ -71,7 +71,7 @@
 
 # 📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 
 
-## ∫ data → systems
+## ∫ data → systems ✨
 
 </div>
 

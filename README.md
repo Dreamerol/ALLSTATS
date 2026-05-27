@@ -70,7 +70,7 @@
   
 <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
 
-<img src="https://img.shields.io/badge/APPLIED•ML-3F3F46?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/APPLIED•ML-2C2C54?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 <img src="https://img.shields.io/badge/BACKEND•SYSTEMS-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
 

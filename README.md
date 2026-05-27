@@ -53,7 +53,7 @@
   
   <img src="https://img.shields.io/badge/OOP-2C2C54?style=for-the-badge"/>
   
-  <img src="https://img.shields.io/badge/Backend-1f6feb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-2C2C54?style=for-the-badge"/>
   
   <img src="https://img.shields.io/badge/APIs-240046?style=for-the-badge"/>
   

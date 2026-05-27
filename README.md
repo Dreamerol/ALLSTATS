@@ -32,6 +32,8 @@
 
 <hr>
 
+<br>
+
 <p align="center">
 
   <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-ff6a00?style=for-the-badge&logo=github&logoColor=white" />
@@ -43,8 +45,6 @@
 
 </div>
 
-
-<hr>
 
 <br>
 

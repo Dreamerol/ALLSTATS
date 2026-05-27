@@ -32,29 +32,28 @@
 <hr>
 
 
-
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Python-00BFFF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-FF4D6D?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-7C3AED?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clojure-3A86FF?style=for-the-badge&logo=clojure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-4FC3F7?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-FF6B81?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-7E57C2?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-42A5F5?style=for-the-badge&logo=clojure&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/ML-FF006E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Algorithms-FD7F2C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Analysis-6366F1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-475569?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/APIs-64748B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ML-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-FFB74D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-5C6BC0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-90CAF9?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/APIs-81D4FA?style=for-the-badge"/>
 
-  <!-- 🔥 ADDED SKILLS -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend_Systems-1D3557?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System_Design-6C757D?style=for-the-badge"/>
+  <!-- ADDED SKILLS (light/vibrant palette) -->
+  <img src="https://img.shields.io/badge/Pandas-26A69A?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-29B6F6?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FFD54F?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-FF7043?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-4FC3F7?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-66BB6A?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend_Systems-42A5F5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System_Design-64B5F6?style=for-the-badge"/>
 
 </p>
 
@@ -62,6 +61,7 @@
 
 
 <hr>
+
 
 
 <br>

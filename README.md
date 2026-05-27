@@ -36,23 +36,47 @@
 
 
 
-<p align="center">
 
-  <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-ff6a00?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ACTIVE-CONTRIBUTOR-ff6a00?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff6a00" />  
+<br>
+
+
+<p align="center">
+  
+<img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/APPLIED ML-BACKEND-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=1f6feb" />
 
 </p>
 
 
-</div>
+<br>
+
+
+<h1 align="center">
+  <a href="https://github.com/Dreamerol/GITHUB-STATS">
+    <b>📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</b>
+  </a>
+</h1>
+
+<h2 align="center"><strong>∫ data → systems ✨</strong></h2>
+
+
 
 
 
 <br>
 
 
-<h1 align="center"><b>🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h1>
+![](https://github.com/Dreamerol/Dreamerol/blob/4a545eaaef50d8ee986bdd338b2211c22387eefa/LANGUAGES7.PNG)
+
+</div>
+
+
+
+
+
+<br>
+
 
 
 <div align="center">

@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/ML-FF006E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Algorithms-FD7F2C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data_Analysis-6366F1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-90CAF9?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/OOP-475569?style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/APIs-3A86FF?style=for-the-badge"/>
 
   <!-- ADDED SKILLS (light/vibrant palette) -->

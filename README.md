@@ -39,8 +39,8 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-ff6a00?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff6a00" />  
   <img src="https://img.shields.io/badge/ACTIVE-CONTRIBUTOR-ff6a00?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=ff6a00" />  
 
 </p>
 

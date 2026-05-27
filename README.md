@@ -126,6 +126,7 @@
 
 </p>
 
+---
 
 <h2 lign="center"> 
  👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 

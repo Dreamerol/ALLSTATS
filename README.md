@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/Docker-4FC3F7?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-66BB6A?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Backend_Systems-42A5F5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System_Design-64B5F6?style=for-the-badge"/>
+
 
 </p>
 

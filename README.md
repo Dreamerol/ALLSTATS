@@ -129,6 +129,7 @@
 ---
 
 
+</p>
  
 <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/APPLIED ML-BACKEND SYS-1f6feb?style=for-the-badge&logo=github&logoColor=white" />

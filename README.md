@@ -42,10 +42,16 @@
   <img src="https://img.shields.io/badge/Clojure-3A86FF?style=for-the-badge&logo=clojure&logoColor=white" />
   <img src="https://img.shields.io/badge/ML-FF006E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Algorithms-FD7F2C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-38B000?style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/Data_Analysis-6366F1?style=for-the-badge"/>
+  
+  <!-- SYSTEMS / ALGORITHMS -->
+  <img src="https://img.shields.io/badge/Algorithms-F97316?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-475569?style=for-the-badge"/>
+  
+  <!-- ENGINEERING TOOLING -->
+  <img src="https://img.shields.io/badge/APIs-64748B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/APIs-A78BFA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-60A5FA?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-2563EB?style=for-the-badge&logo=linux&logoColor=white"/>
 
 </p>
 

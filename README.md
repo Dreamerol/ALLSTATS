@@ -76,7 +76,8 @@
 
 <h2 align="center"><strong>∫ data → systems ✨</strong></h2>
 
-<br>
+
+<br><br>
 
 
 
@@ -88,9 +89,6 @@
 />
 
 </div>
-
-
-
 
 
 <br>

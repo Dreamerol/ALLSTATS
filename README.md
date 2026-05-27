@@ -81,6 +81,13 @@
 
 
 
+
+![](https://github.com/Dreamerol/Dreamerol/blob/c747d1c150770224fc9779248173f51402fb91cf/LANGUAGES2.PNG)
+
+</div>
+
+
+
 <!-- AURA -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dreamerol&theme=aura" width="49%" />

@@ -66,9 +66,9 @@
 <br>
 
 
-<h1 align="center"><b>🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b></h1>
+<h1 align="center"><b>🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥</b>
 
-## ∫ data → systems ✨
+## ∫ data → systems ✨</h1>
 
 </div>
 

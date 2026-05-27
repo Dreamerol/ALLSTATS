@@ -83,7 +83,7 @@
 <div align="center">
 
 <img 
-  src="https://github.com/Dreamerol/Dreamerol/blob/c747d1c150770224fc9779248173f51402fb91cf/LANGUAGES2.PNG" 
+  src="https://github.com/Dreamerol/Dreamerol/blob/4a545eaaef50d8ee986bdd338b2211c22387eefa/LANGUAGES7.PNG" 
   width="100%" 
 />
 

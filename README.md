@@ -32,6 +32,8 @@
 <hr>
 
 
+  <p align="center">
+
   <img src="https://img.shields.io/badge/Python-00BFFF?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-FF4D6D?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-7C3AED?style=for-the-badge&logo=c%2B%2B&logoColor=white" />

@@ -145,9 +145,10 @@
 
 <h2 align="center"> 
  👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
-  <em>Explore the projects below & discover more</em>
+  <em>Selected Software & Data Projects →</em>
  </a>
 </h2>
+  
 
 <br>
 

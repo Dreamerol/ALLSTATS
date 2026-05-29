@@ -99,13 +99,12 @@
 ## Python • SQL • Data Analysis • Applied ML
 
 
-
 </div>
 
 
 
 
-<br>
+<br><br>
 
 
 <div align="center">

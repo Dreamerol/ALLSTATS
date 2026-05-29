@@ -82,7 +82,7 @@
 
 
 
-![](https://github.com/Dreamerol/Dreamerol/blob/c0350890a075b70940f66f4f1a44cd4d8cda6d48/LANGUAGES9.jpg)
+![](https://github.com/Dreamerol/Dreamerol/blob/054d7bf668d6c5a3bf95e75b669d2536655d5492/LANGUAGES777.jpg)
 
 
 

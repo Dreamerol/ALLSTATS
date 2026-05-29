@@ -86,13 +86,12 @@
 
 
 
-
 <br>
 
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">🟢 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
+## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">🟢 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 & 𝗦𝗪𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
 
 ## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
 
@@ -104,7 +103,7 @@
 
 
 
-<br><br>
+<br>
 
 
 <div align="center">

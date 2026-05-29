@@ -111,7 +111,7 @@
 
 <div align="center">
 
-  <img   src="https://github.com/Dreamerol/Dreamerol/blob/5b96070d63433282c187577cc00d3b1b9e51d616/BANNER_LAST.jpg?raw=true"
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/5b96070d63433282c187577cc00d3b1b9e51d616/BANNER_LAST.jpg?raw=true"
      width="100%"/>
 
 </div>

@@ -98,7 +98,6 @@
 
 ## Python • SQL • Data Analysis • Applied ML
 
-## ∫ data → systems ✨
 
 
 </div>

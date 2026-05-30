@@ -97,7 +97,7 @@
 
 ## Python • SQL • Backend Development
 
-## ∫ data → systems ✨
+## ∫ data → systems → insights ✨
 
 
 </div>

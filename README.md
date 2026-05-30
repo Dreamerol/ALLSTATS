@@ -69,13 +69,13 @@
 
 <div align="center">
 
-# 🔥 GITHUB STATS
+# 🔥 GITHUB STATS 🔥
 
 </div>
 
 <div align="center">
 
-## ∫ data → systems
+## ∫ data → systems ✨
 
 </div>
 

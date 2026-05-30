@@ -75,7 +75,7 @@
 
 <div align="center">
 
-## ∫ data → systems ✨
+## ∫ data → systems 
 
 </div>
 

@@ -73,15 +73,10 @@
 
 </div>
 
-<div align="center">
-
-## ∫ data → systems 
-
-</div>
 
 
 
-<br><br>
+<br>
 
 
 

@@ -9,7 +9,7 @@
 <br>
 
 
-![](https://raw.githubusercontent.com/Dreamerol/Dreamerol/956700822da6498a7a778b6591a251eb2852048b/zzzzzDATA222.jpg)
+![](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/zzzzzDATA222.jpg)
 
 
 
@@ -88,7 +88,7 @@
 
 
 
-![](https://raw.githubusercontent.com/Dreamerol/Dreamerol/054d7bf668d6c5a3bf95e75b669d2536655d5492/LANGUAGES777.jpg)
+![](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg)
 
 
 
@@ -118,7 +118,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/5b96070d63433282c187577cc00d3b1b9e51d616/BANNER_LAST.jpg?raw=true"
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/BANNER_LAST.jpg?raw=true"
      width="100%"/>
 
 </div>

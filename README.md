@@ -13,15 +13,10 @@
 
 
 
-
-
-
 [![L](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg)](https://github.com/Dreamerol)
 
 
-
-
-<br>
+---
 
 
 <div align="center" style="white-space:nowrap;">
@@ -39,6 +34,8 @@
 
 </div>
 
+
+---
 
 <br><br>
 

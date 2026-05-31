@@ -32,6 +32,11 @@
 <hr>
 
 
+[![L](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg)](https://github.com/Dreamerol)
+
+
+
+
   <p align="center">
 
   <img src="https://img.shields.io/badge/Python-00BFFF?style=for-the-badge&logo=python&logoColor=white" />

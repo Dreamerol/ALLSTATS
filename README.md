@@ -203,8 +203,6 @@
 ---
 
 
-<h3 align="center">⭐ Feel free to explore the projects and give a star if you find them interesting</h3>
-
 <div align="center" style="white-space:nowrap;">
 
 <span style="font-size:1.15em;">
@@ -221,6 +219,8 @@
 </div>
 
 ---
+
+<h3 align="center">⭐ Feel free to explore the projects and give a star if you find them interesting</h3>
 
 
 

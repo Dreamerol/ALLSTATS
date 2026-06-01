@@ -38,6 +38,22 @@
 
 <br>
 
+
+
+
+<p align="center">
+ 
+<img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/APPLIED_ML-BACKEND_SYSTEMS-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=1f6feb" />
+
+</p>
+
+
+
+
+
+
 <p align="center">
   
   <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-FF8C00?style=for-the-badge&logo=github&logoColor=white" />  

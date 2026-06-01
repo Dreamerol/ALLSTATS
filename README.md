@@ -38,7 +38,7 @@
 
 <div align="center">
 
-# 🔥 GITHUB STATS 🔥
+# 🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥
 
 </div>
 

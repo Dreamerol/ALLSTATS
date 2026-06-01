@@ -61,9 +61,12 @@
 
 <div align="center">
 
-## ∫ data → systems → insights ✨
+# ∫ data → systems → insights ✨
 
 </div>
+
+
+<br><br>
 
 
 <div align="center">

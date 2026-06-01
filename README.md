@@ -74,13 +74,6 @@
 
 </div>
 
-<div align="center">
-
-## ∫ data → systems → insights ✨
-
-</div>
-
-
 
 
 <br><br>

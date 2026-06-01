@@ -59,7 +59,11 @@
 </div>
 
 
-<br><br>
+<div align="center">
+
+## ∫ data → systems → insights ✨
+
+</div>
 
 
 <div align="center">
@@ -67,13 +71,6 @@
 # 🔥 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥
 
 </div>
-
-<div align="center">
-
-## ∫ data → systems → insights ✨
-
-</div>
-
 
 
 

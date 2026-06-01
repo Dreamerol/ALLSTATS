@@ -55,7 +55,7 @@
 
 <div align="center">
 
-## ∫ data → systems → insights ✨
+# ∫ data → systems → insights ✨
 
 </div>
 

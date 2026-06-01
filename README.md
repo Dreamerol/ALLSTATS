@@ -44,6 +44,16 @@
 
 
 
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-D97706?style=for-the-badge&logo=github&logoColor=white" />  
+  <img src="https://img.shields.io/badge/APPLIED%20ML-BACKEND%20SYS-D97706?style=for-the-badge&logo=github&logoColor=white" />  
+  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=D97706" />
+  
+</p>
+
+
+
 
 <br><br>
 

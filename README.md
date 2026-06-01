@@ -84,16 +84,7 @@
 
 
 
-<br><br>
-
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/BANNER_LAST.jpg?raw=true"
-     width="100%"/>
-
-</div>
-
+<br>
 
 <br>
 
@@ -211,6 +202,18 @@
 </a>
 
 </p>
+
+</div>
+
+
+
+---
+
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/BANNER_LAST.jpg?raw=true"
+     width="100%"/>
 
 </div>
 

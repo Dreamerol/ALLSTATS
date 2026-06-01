@@ -7,7 +7,7 @@
 </h1>
 
 <h2 align="center">
-  <i>Building scalable systems from data → backend → ML insights</i>
+  <i>Building scalable systems from data → backend → ML</i>
 </h2>
 
 <br>

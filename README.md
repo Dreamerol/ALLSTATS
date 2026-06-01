@@ -80,14 +80,6 @@
 
 
 
-
-
-
-
-<br>
-
-
-
 <div align="center">
 
 <!-- ACTIVITY GRAPH -->

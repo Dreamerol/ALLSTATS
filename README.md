@@ -213,7 +213,7 @@
 
 
 
-<br>
+<br><br>
 
 
 
@@ -226,6 +226,7 @@
 </div>
 
 
+<br><br>
 
 
 <h3 align="center">⭐ Feel free to explore the projects and give a star if you find them interesting</h3>

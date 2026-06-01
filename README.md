@@ -44,7 +44,7 @@
 
 <div align="center">
 
-## ∫ data → systems ✨
+## ∫ data → systems → insights ✨
 
 </div>
 

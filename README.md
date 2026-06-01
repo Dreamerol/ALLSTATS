@@ -6,9 +6,11 @@
 📊 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗
 </h1>
 
-<h1 align="center">
-  <i>Building scalable systems from data → backend → ML</i>
-</h1>
+ <h2 align="center">
+  Backend systems • Data pipelines • Applied ML for scalable applications
+ </h2>
+
+
 
 <br>
 

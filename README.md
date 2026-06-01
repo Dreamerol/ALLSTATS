@@ -56,6 +56,8 @@
 [![L](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg)](https://github.com/Dreamerol)
 
 
+
+
 [![Languages](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg)](https://github.com/Dreamerol)
 
 
@@ -69,9 +71,7 @@
 
 ## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
 
-
 ## 𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
-
 
 ## ∫ data → systems → insights ✨
 

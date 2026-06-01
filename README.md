@@ -49,17 +49,11 @@
 </div>
 
 
+[![Languages](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg)](https://github.com/Dreamerol)
 
 
 [![L](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg)](https://github.com/Dreamerol)
 
-
-
-
-
-
-
-[![Languages](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg)](https://github.com/Dreamerol)
 
 
 

@@ -42,11 +42,6 @@
 
 </div>
 
-<div align="center">
-
-## ∫ data → systems ✨
-
-</div>
 
 <div align="center">
 
@@ -56,6 +51,11 @@
 
 ## 𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
 
+</div>
+
+<div align="center">
+
+## ∫ data → systems ✨
 
 </div>
 

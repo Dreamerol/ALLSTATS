@@ -34,17 +34,6 @@
 
 
 
-
-
-[![L](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg)](https://github.com/Dreamerol)
-
-
-
-
-
-
-
-
 <div align="center">
 
 # 🔥 GITHUB STATS 🔥
@@ -56,6 +45,12 @@
 ## ∫ data → systems ✨
 
 </div>
+
+
+
+
+
+[![L](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg)](https://github.com/Dreamerol)
 
 
 

@@ -69,7 +69,7 @@
 
 
 
-<br><br>
+<br>
 
 
 <h2 align="center" style="font-size:24px; line-height:1.6;">
@@ -88,7 +88,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br><br>
+<br>
 
 
 
@@ -100,7 +100,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 <div align="center">
 
-## ∫ data → systems → insights ✨
+## ∫ data → systems ✨
 
 </div>
 

@@ -64,7 +64,28 @@
 
 ## 𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
 
+## ∫ data → systems → insights ✨
+
 </div>
+
+
+
+<br>
+
+
+<h2 align="center" style="font-size:24px; line-height:1.6;">
+Build systems where data becomes structure, and structure becomes insight.
+</h2>
+<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
+Background in mathematics, algorithms, and software engineering</strong>.  
+Focused on turning theory into working, scalable systems.
+</h2>
+
+<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
+Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
+</h2>
+
+
 
 
 

@@ -257,16 +257,21 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 <br>
 
+
+
 <div align="center">
   <p style="font-size:12px; line-height:1.6; letter-spacing:0.2px;">
-    Михаела Косева (Mihaela Koseva) • Software Engineer • Data Science • Data Systems & APIs • Backend Engineer • AI Engineer • Applied Machine Learning • Deep Learning • Predictive Modeling • Neural Networks • Model Training • Data Pipelines • Python • C++ • SQL
+    Михаела Косева (Mihaela Koseva) • Software Engineer • Data Science • Data Systems & APIs • Backend Engineer • AI Engineer • Applied Machine Learning • Deep Learning •   Predictive Modeling • Neural Networks • Model Training • Data Pipelines • Python • C++ • SQL 
   </p>
+
+  <p style="font-size:10px; opacity:0.7;">
+    <a href="https://github.com/dreamerol">GitHub: dreamerol</a>
+  </p>
+  
 </div>
 
-<br><br>
 
-<br>
-<br>
+
 <br>
 
 

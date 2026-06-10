@@ -129,11 +129,13 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
  
 <div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Dreamerol&theme=react-dark&hide_border=true&area=true"
-    width="100%"
-    style="max-width: 100%; height: auto;"
-  />
+  <div style="
+    width:100%;
+    height:220px;
+    background:#0d1117;
+    border:1px solid #30363d;
+    border-radius:12px;
+  "></div>
 </div>
 
 

@@ -231,10 +231,12 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
+
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/BANNER_LAST.jpg?raw=true"
-     width="100%"/>
+<a>
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG?raw=true" />
+</a>
 
 </div>
 

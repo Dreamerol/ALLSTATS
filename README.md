@@ -127,7 +127,16 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 [![Languages](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg)](https://github.com/Dreamerol)
 
 
-  
+<br><br>
+
+
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dreamerol&theme=radical&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=E0AAFF" />
+
+</div>
+
 
 <br><br>
 

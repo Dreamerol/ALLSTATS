@@ -41,6 +41,17 @@
 
 <p align="center">
   
+  <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />  
+  <img src="https://img.shields.io/badge/APPLIED%20ML-BACKEND%20SYS-4F8CFF?style=for-the-badge&logo=github&logoColor=white" />  
+  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=00D4FF" />
+  
+</p>
+
+
+
+
+<p align="center">
+  
   <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-00FF9F?style=for-the-badge&logo=github&logoColor=white" />  
   <img src="https://img.shields.io/badge/APPLIED%20ML-BACKEND%20SYS-00B8FF?style=for-the-badge&logo=github&logoColor=white" />  
   <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=FF4D6D" />

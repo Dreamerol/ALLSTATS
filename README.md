@@ -263,18 +263,6 @@ src="https://streak-stats.demolab.com?user=Dreamerol&theme=radical&hide_border=t
 
 
 
-<div align="center">
-
-<img 
-  src="https://streak-stats.demolab.com?user=Dreamerol&theme=radical&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&card_width=800"
-  alt="GitHub streak stats unavailable — showing activity overview"
-  onerror="this.style.display='none';"
-/>
-
-<p>📊 GitHub activity overview (loading stats…)</p>
-
-</div>
-
 
 
 

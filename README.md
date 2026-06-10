@@ -121,6 +121,9 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
+<br><br>
+
+
 <div align="center">
 
 <p align="center">
@@ -135,7 +138,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
   
 
-<br><br>
+<br>
 
 
 

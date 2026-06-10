@@ -121,23 +121,6 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br><br>
-
-
-
-
-
- 
-<div align="center">
-  <div style="
-    width:100%;
-    height:220px;
-    background:#0d1117;
-    border:1px solid #30363d;
-    border-radius:12px;
-  "></div>
-</div>
-
 
   
 

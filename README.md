@@ -126,14 +126,16 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 <div align="center">
 
-<p align="center">
- 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Dreamerol&theme=react-dark&hide_border=true&area=true"
-  width="100%"
-/>
 
+ 
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/assets/engineer_signal.png"
+    width="100%"
+  />
 </div>
+
+
 
   
 

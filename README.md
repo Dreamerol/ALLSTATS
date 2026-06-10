@@ -121,18 +121,6 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br>
-
-
-
-<div align="center">
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dreamerol&theme=tokyo-night&hide_border=true" />
-
-
-</div>
 
 
   

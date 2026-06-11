@@ -1,5 +1,5 @@
 
-
+<br>
 
 <h1 align="center">
 📊 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗
@@ -112,7 +112,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br>
+<br><br>
 
 
 
@@ -120,7 +120,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br>
+<br><br>
 
 
 
@@ -129,6 +129,18 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
+<br><br>
+
+
+
+
+
+<div align="center">
+
+<img style="width:100%; max-width:800px;"
+src="https://streak-stats.demolab.com?user=Dreamerol&theme=radical&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" />
+
+</div>
 
 
 <br>
@@ -284,7 +296,20 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-<br><br><br>
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -143,7 +143,36 @@ src="https://streak-stats.demolab.com?user=Dreamerol&theme=radical&hide_border=t
 
 
 
+
+
+
+
 <br>
+<br>
+
+
+
+
+
+<div align="center">
+
+<a>
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG?raw=true" />
+</a>
+
+</div>
+
+
+
+
+
+
+<br>
+<br>
+
+
+
+
 
 
 
@@ -242,29 +271,6 @@ src="https://streak-stats.demolab.com?user=Dreamerol&theme=radical&hide_border=t
 
 
 
-
-
-<br>
-<br>
-
-
-
-
-
-<div align="center">
-
-<a>
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG?raw=true" />
-</a>
-
-</div>
-
-
-
-
-
-
-<br>
 <br>
 
 

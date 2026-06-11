@@ -42,7 +42,7 @@
   
   <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-FF8C00?style=for-the-badge&logo=github&logoColor=white" />  
   <img src="https://img.shields.io/badge/APPLIED%20ML-BACKEND%20SYS-FF8C00?style=for-the-badge&logo=github&logoColor=white" />  
-  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=FF8C00" />
+  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=7B2CBF" />
   
 </p>
 

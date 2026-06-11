@@ -128,13 +128,6 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<div align="center">
- 
-<img style="width:100%; max-width:800px;"
-src="https://streak-stats.demolab.com?user=Dreamerol&theme=tokyonight&hide_border=true" />
-
-</div>
-
 
 
 <div align="center">

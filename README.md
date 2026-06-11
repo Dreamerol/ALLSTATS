@@ -128,6 +128,22 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
+<img style="width:100%; max-width:800px;"
+src="https://streak-stats.demolab.com?user=Dreamerol&theme=dark&hide_border=true" />
+
+
+<img style="width:100%; max-width:800px;"
+src="https://streak-stats.demolab.com?user=Dreamerol&theme=tokyonight&hide_border=true" />
+
+<img style="width:100%; max-width:800px;"
+src="https://streak-stats.demolab.com?user=Dreamerol&theme=transparent&hide_border=true" />
+
+<img style="width:100%; max-width:800px;"
+src="https://streak-stats.demolab.com?user=Dreamerol&theme=radical&hide_border=true" />
+
+
+
+
 
 
 <div align="center">

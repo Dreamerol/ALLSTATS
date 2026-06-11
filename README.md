@@ -125,26 +125,6 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br>
-
-
-
-
-
-
-<div align="center">
-  <br/>
-  <img style="width:100%; max-width:800px;"
-  src="https://streak-stats.demolab.com?user=Dreamerol&theme=tokyonight&hide_border=true" />
-  <br/>
-</div>
-
-
-
-
-
-
-
 <br><br><br><br>
 
 
@@ -246,7 +226,9 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
+
 <br><br>
+
 
 
 
@@ -263,8 +245,10 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
+
 <br>
 <br>
+
 
 
 

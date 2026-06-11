@@ -37,6 +37,17 @@
 <br>
 
 
+1E90FF
+
+
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-1E90FF?style=for-the-badge&logo=github&logoColor=white" />  
+  <img src="https://img.shields.io/badge/APPLIED%20ML-BACKEND%20SYS-1E90FF?style=for-the-badge&logo=github&logoColor=white" />  
+  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=1E90FF" />
+  
+</p>
+
 
 <p align="center">
   

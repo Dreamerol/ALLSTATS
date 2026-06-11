@@ -41,6 +41,11 @@
 
 
 
+<img src="https://img.shields.io/badge/DATA%20ENGINEERING-ff9f1c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APPLIED%20ML-ff7b72?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BACKEND%20SYSTEMS-7b2ff7?style=for-the-badge" />
+
+
 
 <p align="center">
   

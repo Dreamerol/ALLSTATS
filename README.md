@@ -37,8 +37,6 @@
 <br>
 
 
-1E90FF
-
 
 <p align="center">
   
@@ -48,14 +46,6 @@
   
 </p>
 
-
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-B5179E?style=for-the-badge&logo=github&logoColor=white" />  
-  <img src="https://img.shields.io/badge/APPLIED%20ML-BACKEND%20SYS-B5179E?style=for-the-badge&logo=github&logoColor=white" />  
-  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=B5179E" />
-  
-</p>
 
 
 

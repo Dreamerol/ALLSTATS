@@ -291,27 +291,27 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">
-  <img height="65" src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol">
-  <img height="65" src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/GITHUB-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Dreamerol/PORTFOLIO">
+<img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">
-  <img height="65" src="https://img.shields.io/badge/Repos-4F8CFF?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+  <img height="65" src="https://img.shields.io/badge/REPOS-4F8CFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/GITHUB-STATS">
-  <img height="65" src="https://img.shields.io/badge/Stats-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/STATS-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">
-<img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/RESUME-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
 </p>

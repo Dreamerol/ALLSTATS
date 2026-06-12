@@ -299,7 +299,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 </a>
 
 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-  <img height="65" src="https://img.shields.io/badge/Projects-5A4FCF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">

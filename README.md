@@ -288,8 +288,6 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">
@@ -324,10 +322,5 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-
 <br>
 <br>
-<br>
-
-
-

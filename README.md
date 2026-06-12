@@ -307,11 +307,11 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 </a>
 
 <a href="https://github.com/Dreamerol/GITHUB-STATS">
-  <img height="65" src="https://img.shields.io/badge/Stats-4FD1C5?style=for-the-badge&logo=github&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Stats-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">
-<img src="https://img.shields.io/badge/Resume-4A001F?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Resume-6C63FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
 </p>

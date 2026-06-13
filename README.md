@@ -45,6 +45,19 @@
 
 
 
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-4F8CFF?style=for-the-badge&logo=github&logoColor=white" />  
+  <img src="https://img.shields.io/badge/APPLIED_ML-BACKEND_SYSTEMS%20-4F8CFF?style=for-the-badge&logo=github&logoColor=white" />  
+  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=4F8CFF" />
+  
+</p>
+
+
+
+
+
+
 <br><br>
 
 

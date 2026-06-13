@@ -326,7 +326,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 <a href="https://komarev.com/ghpvc/?username=Dreamerol">
-  <img height="65" src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=4F8CFF&label=VISITORS"/>
+  <img height="65" src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=6C63FF&label=VISITORS"/>
 </a>
 
 

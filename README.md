@@ -66,7 +66,7 @@
 <div align="center">
 
 
-## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 & 𝗗𝗔𝗧𝗔 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
+## <a href="https://github.com/Dreamerol/RESUME" target="_blank">𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 & 𝗗𝗔𝗧𝗔 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
 
 ## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
 
@@ -140,7 +140,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 <h2 align="center"> 
- 👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
+ 👉 <a href="https://github.com/Dreamerol/PORTFOLIO"> 
   <em>Selected SWE & Data Projects →</em>
  </a>
 </h2>

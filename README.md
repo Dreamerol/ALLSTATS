@@ -119,7 +119,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-[![L](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg)](https://github.com/Dreamerol)
+[![L](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg)]
 
 
 
@@ -127,7 +127,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-[![Languages](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg)](https://github.com/Dreamerol)
+[![Languages](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg)]
 
 
 

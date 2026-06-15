@@ -118,18 +118,13 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 <br><br>
 
 
-
-[![L](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg)]
-
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg" alt="Tech Stack" />
 
 
 <br>
 
 
-
-[![Languages](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg)]
-
-
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg" alt="Languages" />
 
 
 

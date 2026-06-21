@@ -262,13 +262,26 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
+
+
+
+
+
+
 <img src="https://github.com/Dreamerol/Dreamerol/blob/main/Last1.png?raw=true" width="100%" />
 
 
 
 
 
-<br><br><br><br>
+
+
+
+
+
+
+
+<br><br><br>
 
 
 

@@ -146,6 +146,11 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg" alt="Languages" />
 
+<br>
+
+
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Last1.png" alt="Stats" />
+
 
 
 <br><br>

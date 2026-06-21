@@ -88,20 +88,7 @@
 
 
 
-
-
-
-
-
 <img src="https://github.com/Dreamerol/Dreamerol/blob/main/Last1.png?raw=true" width="100%" />
-
-
-
-
-
-
-
-
 
 
 

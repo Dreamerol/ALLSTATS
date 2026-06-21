@@ -84,16 +84,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Last1.png"
-     width="100%" />
-
-     
-
-<br><br><br>
-     
-
-
-
 <div align="center">
 
 
@@ -356,7 +346,18 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 <br>
 <br>
 <br>
+
+
+
+<img src="https://github.com/Dreamerol/Dreamerol/blob/main/Last1.png?raw=true" width="100%" />
+
+
+
 <br>
+<br>
+<br>
+<br>
+
 
 
 

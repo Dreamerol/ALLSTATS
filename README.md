@@ -136,7 +136,8 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br><br>
+<br><br><br>
+
 
 
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg" alt="Tech Stack" />
@@ -150,7 +151,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br><br>
+<br><br><br>
 
 
 
@@ -325,16 +326,6 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 </p>
 
 
-
-
-
-<div align="center">
-
-<a>
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG?raw=true" />
-</a>
-
-</div>
 
 
 

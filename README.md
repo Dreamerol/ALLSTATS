@@ -125,46 +125,6 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br><br><br><br>
-
-
-
-
-
-
-
-
-
-
-
-<img src="https://github.com/Dreamerol/Dreamerol/blob/main/Last1.png?raw=true" width="100%" />
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 
 ## <a href="https://github.com/Dreamerol/PORTFOLIO">🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</a>

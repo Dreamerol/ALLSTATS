@@ -367,7 +367,35 @@ width="320" height="220">
 
 
 
-<br><br><br>
+
+
+
+<br><br>
+
+
+
+
+
+<div align="center">
+
+<a>
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG?raw=true" />
+</a>
+
+</div>
+
+
+
+
+
+
+
+
+<br><br>
+
+
+
+
 
 
 
@@ -394,11 +422,17 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-
 <br>
 
 
+
+
+
+
+
 ---
+
+
 
 
 
@@ -434,14 +468,10 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-
 <br>
 <br>
 <br>
 <br>
-
-
-
 
 
 

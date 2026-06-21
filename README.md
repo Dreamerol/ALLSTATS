@@ -140,6 +140,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
+
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg" alt="Tech Stack" />
 
 
@@ -255,7 +256,9 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br><br><br>
+<br><br><br><br><br>
+
+
 
 
 
@@ -265,7 +268,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br><br><br>
+<br><br><br><br><br>
 
 
 

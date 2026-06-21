@@ -99,7 +99,7 @@
 
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -121,14 +121,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br><br><br>
-
-
-
-
-
-
-
+<br><br>
 
 
 
@@ -141,8 +134,6 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 ## 𝟭𝟱+ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱/𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗦𝗤𝗟 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 
 
 </div>
-
-
 
 
 

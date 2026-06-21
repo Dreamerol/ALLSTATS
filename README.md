@@ -12,6 +12,17 @@
 <br>
 
 
+<br>
+
+
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Last1.png" alt="Stats" />
+
+
+
+<br><br>
+
+
+
 [![](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/zzzzzDATA222.jpg)](https://github.com/Dreamerol)
 
 

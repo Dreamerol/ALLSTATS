@@ -373,39 +373,6 @@ width="320" height="220">
 
 
 
-
-
-<br><br>
-
-
-
-
-
-<div align="center">
-
-<a>
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG?raw=true" />
-</a>
-
-</div>
-
-
-
-
-
-
-
-
-<br><br>
-
-
-
-
-
-
-
-
-
 <h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
 
 

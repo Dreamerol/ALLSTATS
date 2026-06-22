@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-4F8CFF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Engineering-6C63FF?style=for-the-badge" />
 
   <img src="https://img.shields.io/badge/C%2B%2B-6C63FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" />

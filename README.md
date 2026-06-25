@@ -342,38 +342,23 @@ width="320" height="220">
 
 
 
-
-
-
-
 <br><br>
-
-
-
 
 
 <div align="center">
 
-<img 
-  src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG"
-  alt="Vizitka"
-  width="100%"  
-    />
+<a href="https://github.com/Dreamerol">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG"
+    alt="Vizitka"
+    width="100%"
+  />
+</a>
 
 </div>
 
 
-
-
-
-
-
-
-<br>
-<br>
-
-
-
+<br><br>
 
 
 

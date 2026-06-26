@@ -7,7 +7,18 @@
  <h2 align="center">
   Backend systems • Data pipelines • Applied ML for scalable applications
  </h2>
+
+
+  <h2 align="center">
+  𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 @ 𝗙𝗠𝗜 → 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀
+ </h2>
  
+
+<h1 style="font-size:42px; line-height:1.2;">
+🟢 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 @ 𝗙𝗠𝗜 → 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀
+</h1>
+
+
 
 <br>
 

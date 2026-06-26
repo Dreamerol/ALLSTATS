@@ -3,9 +3,10 @@
 📊 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗
 </h1>
 
-<h2 align="center">
-Building scalable backend systems, data pipelines, and applied ML products
-</h2>
+  <h2 align="center">
+  Backend systems • Data pipelines • Applied ML for scalable applications
+  </h2>
+
 
 
 

@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center">
-Building scalable backend systems, data pipelines, and applied ML products.
+Building scalable backend systems, data pipelines, and applied ML products
 </h2>
 
 

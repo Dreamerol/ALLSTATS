@@ -256,6 +256,42 @@ width="320" height="220">
 
 
 
+<br><br>
+
+
+
+
+
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_1.PNG"
+    width="100%"
+    alt="Mihaela Koseva Banner"
+  />
+</a>
+
+</div>
+
+
+
+
+
+
+
+
+
+<br><br>
+
+
+
+
+
+
 <h2 align="center"> 
  👉 <a href="https://github.com/Dreamerol/PORTFOLIO"> 
   <em>Selected SWE & Data Projects →</em>
@@ -464,9 +500,6 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-
-
-
 <div align="center">
 
 <a href="https://github.com/Dreamerol">
@@ -478,16 +511,6 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 </a>
 
 </div>
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -7,9 +7,11 @@
 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 @ 𝗙𝗠𝗜 → 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀
 </h1>
 
-<p align="center">
+<h2 align="center">
 Building scalable backend systems, data pipelines, and applied ML products.
-</p>
+</h2>
+
+
 
 
 <br>

@@ -247,7 +247,27 @@ width="320" height="220">
 
 
 
+<br>
 
+
+
+<br>
+
+<div align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Dreamerol&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img height="170" src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg" alt="Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Dreamerol&theme=tokyonight&hide_border=true"/>
+</div>
 
 
 

@@ -129,20 +129,14 @@
 
 
 
-<br><br><br>
 
 
 
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dreamerol&theme=tokyonight&hide_border=true" width="100%"/>
-</div>
 
 
-
-
-<br><br><br>
+<br><br>
 
 
 

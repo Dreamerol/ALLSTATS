@@ -252,9 +252,8 @@ width="320" height="220">
 
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Dreamerol&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Dreamerol&theme=tokyonight&hide_border=true" width="100%"/>
 </div>
-
 
 
 

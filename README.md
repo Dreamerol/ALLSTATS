@@ -77,7 +77,7 @@
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/RESUME">✅ 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 @ 𝗙𝗠𝗜</a>
+## <a href="https://github.com/Dreamerol/RESUME">✅ 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 @ 𝗙𝗠𝗜 → 𝗗𝗔𝗧𝗔 → 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</a>
 
 
 <div align="center">

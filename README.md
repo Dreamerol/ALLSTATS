@@ -4,9 +4,9 @@
 </h1>
 
 
- <h2 align="center">
+ <h1 align="center">
 GitHub Statistics • Contribution Activity • Repository Insights
-</h2>
+</h1>
 
 
 <br>

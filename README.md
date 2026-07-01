@@ -125,7 +125,7 @@ GitHub Stats • Contribution Activity • Repository Insights
 
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -139,6 +139,7 @@ GitHub Stats • Contribution Activity • Repository Insights
 ## 𝟭𝟱+ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱/𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗦𝗤𝗟 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 
 
 </div>
+
 
 
 
@@ -244,7 +245,7 @@ width="320" height="220">
 
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -418,9 +419,6 @@ width="320" height="220">
 </p>
 
 </div>
-
-
-
 
 
 

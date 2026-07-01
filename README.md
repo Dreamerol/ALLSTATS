@@ -5,7 +5,7 @@
 
 
  <h1 align="center">
-GitHub Statistics • Contribution Activity • Repository Insights
+GitHub Stats • Contribution Activity • Repository Insights
 </h1>
 
 

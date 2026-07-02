@@ -1,12 +1,13 @@
 
+
+
+
+
 <h1 align="center">
 📊 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗
 </h1>
 
 
-<h2 align="center">
-GitHub Stats • Contribution Activity • Repository Insights
-</h2>
 
 <br>
 

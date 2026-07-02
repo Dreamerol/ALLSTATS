@@ -262,16 +262,6 @@ width="320" height="220">
 
 
 
-<div align="center">
-
-
-
-## ∫ data → systems ✨
-
-</div>
-
-
-
 
 
 

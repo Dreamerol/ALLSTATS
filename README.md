@@ -431,16 +431,31 @@ width="320" height="220">
 
 
 
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
 <div align="center">
-
-<a href="https://github.com/Dreamerol/VIZITKA" target="_blank">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_MIHAELA_KOSEVA_VIZITKA_111.png"
-    alt="Vizitka"
-    width="100%"
-  />
-</a>
-
+  <a href="https://github.com/Dreamerol" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_11.PNG"
+      width="100%"
+      alt="Mihaela Koseva Banner"
+    />
+  </a>
 </div>
 
 
@@ -456,7 +471,7 @@ width="320" height="220">
 
 
 
-<h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
+<h2 align="center">⭐ Feel free to explore repositories and give a star if you find them interesting</h2>
 
 
 
@@ -477,7 +492,11 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 </div>
 
 
+
+
+
 <br>
+
 
 
 
@@ -488,7 +507,6 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 <br>
-
 
 
 
@@ -529,29 +547,12 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-<br><br>
-
-
-
-
-
-<div align="center">
-  <a href="https://github.com/Dreamerol" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_11.PNG"
-      width="100%"
-      alt="Mihaela Koseva Banner"
-    />
-  </a>
-</div>
-
-
-
 
 
 
 
 <br><br><br><br>
+
 
 
 

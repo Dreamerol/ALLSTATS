@@ -107,6 +107,33 @@
 
 
 
+
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/PORTFOLIO">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO_1.png"
+    width="100%"
+    alt="Portfolio Banner"
+    style="border-radius:18px;" 
+  />
+</a>
+
+</div>
+
+
+
+
+
+<br><br>
+
+
+
+
+
 <div align="center">
 
 ## <a href="https://github.com/Dreamerol/CARDFOLIO">🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 ∫ 𝗗𝗔𝗧𝗔 • 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</a>

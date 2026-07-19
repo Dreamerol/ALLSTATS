@@ -373,33 +373,6 @@ width="320" height="220">
 
 
 
-
-
-<br><br>
-
-
-
-
-
-
-
-<div align="center">
-
-<h1>
-<a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY">
-   ⚛️ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗨𝗣𝗗𝗔𝗧𝗘
-</a>
-</h1>
-
-
-
-</div>
-
-
-
-
-
-
 <br><br>
 
 

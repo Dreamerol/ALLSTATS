@@ -10,9 +10,19 @@
 <br>
 
 
+<a href="https://github.com/Dreamerol/PORTFOLIO">
 
-[![](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/zzzzzDATA222.jpg)](https://github.com/Dreamerol/PORTFOLIO)
+  <img 
 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/zzzzzDATA222.jpg"
+
+    alt="Mihaela Koseva - AI Engineer, Software Engineer, Portfolio, Data Science, Applied Machine Learning, Python"
+
+    width="100%"
+
+  />
+
+</a>
 
 
 

@@ -92,16 +92,20 @@
 
 
 
+
+
+
 <div align="center">
 
 <h1>
-<a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY" target="_blank" style="text-decoration:none;">
-🧠 𝗡𝗘𝗨𝗥𝗢𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗦𝗣𝗜𝗞𝗜𝗡𝗚 𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦
+<a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY">
+  ⚛️ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗨𝗣𝗗𝗔𝗧𝗘
 </a>
 </h1>
 
-
 </div>
+
+
 
 
 
@@ -110,15 +114,20 @@
 
 
 
+
+
 <div align="center">
 
-<a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY" target="_blank">
-
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG" width="100%" alt="Neuroscience SNN"/>
-
-</a>
+  <a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG"
+      width="100%"
+      alt="Mihaela Koseva, Михаела Косева - Neuroscience Spiking Neural Networks, Software Engineer, AI Engineer, Applied Machine Learning"
+    />
+  </a>
 
 </div>
+
 
 
 

@@ -399,7 +399,7 @@ width="320" height="220">
 
 <div align="center">
 
-  <a href="https://github.com/Dreamerol/PORTFOLIO">
+  <a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY">
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG"
       width="100%"

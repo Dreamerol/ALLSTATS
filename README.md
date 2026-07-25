@@ -97,9 +97,9 @@
 
 # ✅ <a href="https://github.com/Dreamerol/RESUME" target="_blank">𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 ∫ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 • 𝗔𝗜 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟</a>
 
-# <a href="https://www.uni-sofia.bg" target="_blank">𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</a>
+## <a href="https://www.uni-sofia.bg" target="_blank">𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</a>
 
-# <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">𝟯𝟬+ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 & 𝗔𝗜 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀</a>
+## <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">𝟯𝟬+ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 & 𝗔𝗜 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀</a>
 
 </div>
 

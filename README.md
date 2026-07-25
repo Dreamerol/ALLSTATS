@@ -222,7 +222,7 @@ width="320" height="220">
 
 <div align="center">
 
-# 🔥 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 🔥
+# 📊 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 
 
 ## ∫ data → systems → insights ✨
 

@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-⚛️ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 ∫ 𝗦𝗪𝗘 • 𝗗𝗔𝗧𝗔 • 𝗠𝗟
+⚛️ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 ∫ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥
 </h1>
 
 
@@ -102,9 +102,9 @@
 
 <div align="center">
 
-# ✅ <a href="https://github.com/Dreamerol/RESUME" target="_blank">𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 • 𝗔𝗜 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
+# ✅ <a href="https://github.com/Dreamerol/RESUME" target="_blank">𝗦𝗪𝗘 ∫ 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 • 𝗔𝗜 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
 
-## <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">𝟯𝟬+ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟</a>
+## <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">𝟯𝟬+ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗔𝗜 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟</a>
 
 </div>
 

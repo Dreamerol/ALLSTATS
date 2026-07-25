@@ -95,9 +95,9 @@
 
 <div align="center">
 
-# ✅ <a href="https://github.com/Dreamerol/RESUME" target="_blank">𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 • 𝗔𝗜 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
+## ✅ <a href="https://github.com/Dreamerol/RESUME" target="_blank">𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 • 𝗔𝗜 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
 
-## <a href="https://www.uni-sofia.bg" target="_blank">𝗙𝗠𝗜, 𝗦𝗢𝗙𝗜𝗔 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗜𝗧𝗬 “𝗦𝗧. 𝗞𝗟𝗜𝗠𝗘𝗡𝗧 𝗢𝗛𝗥𝗜𝗗𝗦𝗞𝗜”</a>
+## <a href="https://www.uni-sofia.bg" target="_blank">𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</a>
 
 ## <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">𝟯𝟬+ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 • 𝗔𝗜 & 𝗗𝗔𝗧𝗔 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</a>
 

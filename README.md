@@ -373,10 +373,46 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
+
+
+
 ---
 
 
-<br>
+
+
+
+
+
+
+<br><br><br>
+
+
+
+
+
+
+<div align="center">
+  <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_11.png"
+      width="100%"
+      alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science Portfolio"
+    />
+  </a>
+</div>
+
+
+
+
+
+
+
+<br><br><br>
+
+
+
+
 
 
 
@@ -396,24 +432,17 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 </td>
 
 
-
-
-<td>
-<a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20PORTFOLIO.png" height="130">
-</a>
-</td>
-
-
-
-
 <td>
 <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20REPOSITORIES.png" height="130">
 </a>
 </td>
 
-
+<td>
+<a href="https://github.com/Dreamerol/ALLSTATS" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20STATS.png" height="130">
+</a>
+</td>
 
 <td>
 <a href="https://github.com/Dreamerol/RESUME" target="_blank">

@@ -104,7 +104,7 @@
 
 # ✅ <a href="https://github.com/Dreamerol/RESUME" target="_blank">𝗦𝗪𝗘 ∫ 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 • 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
 
-# <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">𝟯𝟬+  𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 & 𝗔𝗜 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗠𝗟 • 𝗦𝗤𝗟</a>
+# <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">𝟯𝟬+ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 • 𝗔𝗜 • 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀</a>
 
 </div>
 

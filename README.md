@@ -58,19 +58,21 @@
 
 
 
-<br>
-
 
 <div align="center">
 
+<a href="https://github.com/Dreamerol/CARDFOLIO">
 
-<img 
-src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK.png"
+<img
+src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
 width="100%"
-alt="Михаела Косева | Mihaela Koseva - Software Engineer, AI, Machine Learning, Data Science, Python, C++, Java, SQL"
+alt="Mihaela Koseva - Software Engineer, AI Engineer, Tech Stack"
 />
 
-</div>
+</a>
+
+
+
 
 
 

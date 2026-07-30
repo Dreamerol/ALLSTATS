@@ -59,6 +59,18 @@
 
 
 
+<img 
+src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK.png"
+width="100%"
+alt="Михаела Косева | Mihaela Koseva - Software Engineer, AI, Machine Learning, Data Science, Python, C++, Java, SQL"
+/>
+
+
+
+
+
+
+
 
 
 <div align="center">

@@ -1,21 +1,23 @@
 
 
-
- 
-
 <h1 align="center">
- 💻 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 
+  <a href="https://github.com/Dreamerol/RESUME"
+     title="Mihaela Koseva • Михаела Косева • Resume • Software Engineer • AI Engineer • Python Developer • C++ • Java • Data Science • Machine Learning • GitHub • Portfolio • Програмист"
+     aria-label="Mihaela Koseva, Михаела Косева, Resume, Software Engineer, AI Engineer, Python Developer, C++, Java, Data Science, Machine Learning, GitHub, Portfolio, Програмист">
+    ✅ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
+  </a>
 </h1>
 
 
 
 
 <h1 align="center">
- 📊 𝗗𝗘𝗩 𝗜𝗡𝗦𝗜𝗚𝗛𝗧𝗦 ∫ 𝗚𝗜𝗧𝗛𝗨𝗕 • 𝗗𝗔𝗧𝗔 • 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+  <a href="https://github.com/Dreamerol/VIZITKA"
+     title="Mihaela Koseva • Михаела Косева • Software Engineer • AI Engineer • Python Developer • C++ • Java • Data Science • Machine Learning • GitHub • Portfolio • Programmer • Програмист"
+     aria-label="Mihaela Koseva, Михаела Косева, Software Engineer, AI Engineer, Python Developer, C++, Java, Data Science, Machine Learning, GitHub, Portfolio, Programmer, Програмист">
+    📊 𝗗𝗘𝗩 𝗜𝗡𝗦𝗜𝗚𝗛𝗧𝗦 ∫ 𝗚𝗜𝗧𝗛𝗨𝗕 • 𝗗𝗔𝗧𝗔 • 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+  </a>
 </h1>
-
-
-
 
 
 

@@ -1,3 +1,9 @@
+
+
+
+
+
+
 <h1 align="center">
   <a href="https://github.com/Dreamerol/RESUME"
      title="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • GitHub • Portfolio"

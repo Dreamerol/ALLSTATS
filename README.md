@@ -172,7 +172,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 </p>
 
 <p style="font-size:10px; opacity:0.7;">
-© 2026 Mihaela Koseva (Михаела Косева) • Софийски университет • Original portfolio design, custom graphics & content.
+© 2026 Mihaela Koseva (Михаела Косева) • Софийски университет • Original portfolio design.
 </p>
 
 <p style="font-size:10px; opacity:0.7;">
@@ -181,8 +181,6 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 </p>
 
 </div>
-
-
 
 
 

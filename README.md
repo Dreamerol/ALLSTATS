@@ -159,17 +159,12 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 <div align="center">
 
-# <a href="https://github.com/Dreamerol" target="_blank">🟢  𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
+# <a href="https://github.com/Dreamerol" target="_blank">🟢 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 • 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 • 𝗔𝗣𝗜𝗦</a>
 
-# 𝟯𝟬+ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 • 𝗔𝗜 • 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+# 𝟯𝟬+ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 & 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 </div>
   
-
-
-
-
-
 
 
 <br>

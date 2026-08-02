@@ -101,6 +101,63 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+
+
+
+
+
+
+
+<div align="center">
+
+# <a href="https://github.com/Dreamerol/RESUME">✅ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜 & 𝗠𝗟</a>
+
+# <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
+
+</div>
+
+
+
+
+
+<br>
+
+
+
+
+
+<div align="center" style="max-width:800px; margin:auto; text-align:center;">
+
+
+
+<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
+Build systems where data becomes structure and structure becomes insight. Background in Mathematics, Algorithms, and Software Engineering.  
+Focused on turning theory into practical, scalable systems.
+</h2>
+
+<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
+Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
+</h2>
+
+
+
+</div>
+
+
+
+
+
+
+<br><br><br>
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 # <a href="https://github.com/Dreamerol" target="_blank">✅ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
@@ -214,57 +271,6 @@ width="320" height="220">
 </table>
 
 </div>
-
-
-
-
-
-
-
-
-<br><br><br>
-
-
-
-
-
-
-
-<div align="center">
-
-# <a href="https://github.com/Dreamerol/RESUME">✅ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜 & 𝗠𝗟</a>
-
-# <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
-
-</div>
-
-
-
-
-
-<br>
-
-
-
-
-
-<div align="center" style="max-width:800px; margin:auto; text-align:center;">
-
-
-
-<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
-Build systems where data becomes structure and structure becomes insight. Background in Mathematics, Algorithms, and Software Engineering.  
-Focused on turning theory into practical, scalable systems.
-</h2>
-
-<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
-Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
-</h2>
-
-
-
-</div>
-
 
 
 

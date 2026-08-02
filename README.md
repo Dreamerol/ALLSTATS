@@ -3,11 +3,15 @@
 
 
 
+
+
+
+
 <h1 align="center">
   <a href="https://github.com/Dreamerol/RESUME"
      title="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • GitHub • Portfolio"
      aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, GitHub, Portfolio">
-    ✅ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜, 𝗦𝗢𝗙𝗜𝗔 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗜𝗧𝗬
+    ✅ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
   </a>
 </h1>
 
@@ -22,16 +26,12 @@
 
 
 <h1 align="center">
-  <a href="https://github.com/Dreamerol/PORTFOLIO"
+  <a href="https://github.com/Dreamerol/CARDFOLIO"
      title="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL • GitHub • Portfolio"
      aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, GitHub, Portfolio">
-    📊 𝗗𝗘𝗩 𝗜𝗡𝗦𝗜𝗚𝗛𝗧𝗦 ∫ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗜𝗦𝗧𝗜𝗖𝗦
+    📊 𝗗𝗘𝗩 𝗜𝗡𝗦𝗜𝗚𝗛𝗧𝗦 ∫ 𝗚𝗜𝗧𝗛𝗨𝗕 • 𝗗𝗔𝗧𝗔 • 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
   </a>
 </h1>
-
-
-
-
 
 
 

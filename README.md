@@ -324,18 +324,6 @@ width="320" height="220">
 
 
 <img 
-src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg" 
-alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL" 
-/>
-
-
-
-
-<br>
-
-
-
-<img 
 src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.png" 
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL" 
 />

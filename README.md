@@ -306,7 +306,7 @@ width="320" height="220">
 
 <div align="center">
 
-# 📊 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 
+# 📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦
 
 # ∫ Data → Systems
 

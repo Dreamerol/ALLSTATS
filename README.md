@@ -106,71 +106,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-
-
-
-<div align="center">
-
-# <a href="https://github.com/Dreamerol/VIZITKA">🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
-
-# <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
-
-</div>
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-
-  
-  
-<h2>
-Developed AI-powered software solutions and data-centric systems.<br>
-Worked with <b>Python</b>, <b>Data Science</b>, <b>Machine Learning</b>, and AI technologies to build intelligent, scalable applications.
-</h2>
-
-<h2>
-Designed and implemented AI workflows, data pipelines, feature engineering solutions, and production-ready components. Applied machine learning algorithms, data analytics, and automation techniques for intelligent systems.<br><br>
-
-
-Integrated AI capabilities into software platforms through ML model development, model evaluation, experimentation, and engineering practices. Built backend services, REST API integrations, and scalable data solutions for distributed systems.
-</h2>
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-<br><br><br>
-
-
-
-
-
-
-
-
-
 <div align="center">
 
 # <a href="https://github.com/Dreamerol/RESUME">✅ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜 & 𝗠𝗟</a>
@@ -295,8 +230,70 @@ width="320" height="220">
 
 
 <br><br>
-<br><br>
+<br>
 
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+# <a href="https://github.com/Dreamerol/VIZITKA">🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
+
+# <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
+
+</div>
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+
+  
+  
+<h2>
+Developed AI-powered software solutions and data-centric systems.<br>
+Worked with <b>Python</b>, <b>Data Science</b>, <b>Machine Learning</b>, and AI technologies to build intelligent, scalable applications.
+</h2>
+
+<h2>
+Designed and implemented AI workflows, data pipelines, feature engineering solutions, and production-ready components. Applied machine learning algorithms, data analytics, and automation techniques for intelligent systems.<br><br>
+
+
+Integrated AI capabilities into software platforms through ML model development, model evaluation, experimentation, and engineering practices. Built backend services, REST API integrations, and scalable data solutions for distributed systems.
+</h2>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<br><br>
+<br>
 
 
 

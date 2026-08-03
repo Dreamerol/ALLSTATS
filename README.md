@@ -126,22 +126,32 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-<div align="center" style="max-width:800px; margin:auto; text-align:center;">
 
 
 
-<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
-Build systems where data becomes structure and structure becomes insight. Background in Mathematics, Algorithms, and Software Engineering.  
-Focused on turning theory into practical, scalable systems.
+
+
+<div align="center">
+
+
+  
+  
+<h2>
+Developed AI-powered software solutions and data-centric systems.<br>
+Worked with <b>Python</b>, <b>Data Science</b>, <b>Machine Learning</b>, and AI technologies to build intelligent, scalable applications.
 </h2>
 
-<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
-Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
+<h2>
+Designed and implemented AI workflows, data pipelines, feature engineering solutions, and production-ready components. Applied machine learning algorithms, data analytics, and automation techniques for intelligent systems.<br><br>
+
+
+Integrated AI capabilities into software platforms through ML model development, model evaluation, experimentation, and engineering practices. Built backend services, REST API integrations, and scalable data solutions for distributed systems.
 </h2>
 
 
 
 </div>
+
 
 
 

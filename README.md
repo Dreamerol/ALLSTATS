@@ -303,7 +303,7 @@ Integrated AI capabilities into software platforms through ML model development,
 
 <div align="center">
 
-# 📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦
+# 📊 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦
 
 # ∫ Data → Systems
 

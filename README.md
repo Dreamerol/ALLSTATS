@@ -103,6 +103,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 # 𝟯𝟬+ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 • 𝗔𝗜 • 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
+
 </div>
   
 
@@ -238,6 +239,11 @@ width="320" height="220">
 
 # <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
 
+
+# 𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
+
+# ∫ Data → Systems
+
 </div>
 
 
@@ -250,31 +256,27 @@ width="320" height="220">
 
 
 
-
-
-
-
-
-<div align="center">
-
-
-  
-  
-<h2>
-Developed AI-powered software solutions and data-centric systems.<br>
-Worked with <b>Python</b>, <b>Data Science</b>, <b>Machine Learning</b>, and AI technologies to build intelligent, scalable applications.
-</h2>
+<div align="center" style="max-width:800px; margin:auto; text-align:center;">
 
 <h2>
-Designed and implemented AI workflows, data pipelines, feature engineering solutions, and production-ready components. Applied machine learning algorithms, data analytics, and automation techniques for intelligent systems.<br><br>
+
+Interested in how systems emerge from simplicity — where structure, logic and limitations turn abstract problems into working systems.
 
 
-Integrated AI capabilities into software platforms through ML model development, model evaluation, experimentation, and engineering practices. Built backend services, REST API integrations, and scalable data solutions for distributed systems.
+
+Focused on calm consistency, disciplined work and continuous improvement across systems, algorithms and machine learning.
+
+
+
+Think deeply. Build with intent.
+
+
 </h2>
-
 
 
 </div>
+
+
 
 
 

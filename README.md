@@ -170,7 +170,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
 
-Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • Data Science • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
+Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • GitHub activity, engineering metrics and development insights • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • Data Science • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
 </p>
 
 <p style="font-size:10px; opacity:0.7;">

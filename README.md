@@ -42,7 +42,6 @@
 
 
 <br>
-
 <br>
 
 
@@ -88,11 +87,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-
-
-
-
-<br>
 <br><br><br>
 
 
@@ -227,7 +221,7 @@ width="320" height="220">
 
 
 <br><br><br>
-<br><br>
+<br>
 
 
 
@@ -290,7 +284,7 @@ Integrated AI capabilities into software platforms through ML model development,
 
 
 <br><br>
-<br>
+
 
 
 

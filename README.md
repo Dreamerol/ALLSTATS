@@ -110,8 +110,8 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 <img 
-src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.png" 
-alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia"
+src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK-JPG.jpg" 
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia"
 />
 
 

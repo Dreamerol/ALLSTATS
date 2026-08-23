@@ -67,6 +67,46 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<br><br><br>
+
+
+
+
+<div align="center">
+
+# <a href="https://github.com/Dreamerol/RESUME" target="_blank">✅ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
+
+# <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
+
+# ∫ 𝗗𝗮𝘁𝗮 → 𝗦𝘆𝘀𝘁𝗲𝗺𝘀
+
+</div>
+
+<br>
+
+<div align="center" style="max-width:800px; margin:auto; text-align:center;">
+
+<h2>
+
+<b>Mihaela Koseva (Михаела Косева)</b> • Sofia University (Софийски университет) • SMG (СМГ)
+
+𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱 𝗶𝗻 𝗵𝗼𝘄 𝘀𝗶𝗺𝗽𝗹𝗲 𝗶𝗱𝗲𝗮𝘀 𝗯𝗲𝗰𝗼𝗺𝗲 𝗿𝗲𝗹𝗶𝗮𝗯𝗹𝗲 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 —  
+𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲, 𝗹𝗼𝗴𝗶𝗰, 𝗰𝗼𝗻𝘀𝘁𝗿𝗮𝗶𝗻𝘁𝘀 𝗮𝗻𝗱 𝗱𝗲𝗹𝗶𝗯𝗲𝗿𝗮𝘁𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴.
+
+𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗼𝗻 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝗳𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝘁𝗼 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 —  
+𝗮𝗰𝗿𝗼𝘀𝘀 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲, 𝗱𝗮𝘁𝗮, 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 𝗮𝗻𝗱 𝗮𝗽𝗽𝗹𝗶𝗲𝗱 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴.
+
+<b>𝗧𝗵𝗶𝗻𝗸 𝗱𝗲𝗲𝗽𝗹𝘆. 𝗕𝘂𝗶𝗹𝗱 𝘄𝗶𝘁𝗵 𝗶𝗻𝘁𝗲𝗻𝘁.</b>
+
+</h2>
+
+</div>
+
+
+
+
+
+
 
 
 
@@ -77,10 +117,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 <h1 align="center">
-  <a href="https://github.com/Dreamerol/RESUME"
+  <a href="https://github.com/Dreamerol"
      title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineer, Sofia"
      aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">
-     ✅ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗗𝗘𝗩 𝗜𝗡𝗦𝗜𝗚𝗛𝗧𝗦 ∫ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
+     🐙 𝗗𝗘𝗩 𝗜𝗡𝗦𝗜𝗚𝗛𝗧𝗦 ∫ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
   </a>
 </h1>
 

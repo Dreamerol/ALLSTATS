@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://dreamerol.github.io/MIHAELA-KOSEVA/">
+<a href="https://github.com/Dreamerol">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA-KOSEVA-ALL-STATS.jpg"
     width="100%"
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<a href="https://dreamerol.github.io/MIHAELA-KOSEVA/">
+<a href="https://github.com/Dreamerol/CARDFOLIO">
 
 <img
 src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH-STACK-mihaela-koseva.png"
@@ -118,7 +118,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 <h1 align="center">
- 🔥 <a href="https://dreamerol.github.io/MIHAELA-KOSEVA/"
+ 🔥 <a href="https://github.com/Dreamerol/PORTFOLIO"
      title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineer, Sofia"
      aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">
       𝗗𝗘𝗩 𝗜𝗡𝗦𝗜𝗚𝗛𝗧𝗦 ∫ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</a>  🔥

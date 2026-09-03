@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol">
+<a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA-KOSEVA-ALL-STATS.jpg"
     width="100%"

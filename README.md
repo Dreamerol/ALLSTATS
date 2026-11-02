@@ -289,6 +289,23 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+
+<h1 align="center">
+  <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol">
+    <strong>𝗚𝗜𝗧𝗦𝗖𝗢𝗥𝗘　●　𝗚𝗟𝗢𝗕𝗔𝗟 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧</strong>
+  </a>
+</h1>
+
+<p align="center">
+  Mihaela Koseva (Михаела Косева) · Sofia University (Софийски университет) ·
+  Software Engineer · AI Engineer · Applied Machine Learning · Data Science ·
+  Python · C++ · Java · SQL
+</p>
+
+
+
+
+
 <br>
 
 

@@ -292,21 +292,20 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-
-
-
-
 <h1 align="center">
-  #𝟮 GLOBAL &nbsp;·&nbsp; 𝟵𝟮𝟭 / 𝟭𝟬𝟬𝟬 &nbsp;·&nbsp; 𝗦+
-  </h1>
-
-  <h1 align="center">
-
-  𝗚𝗜𝗧𝗛𝗨𝗕 𝗣𝗥𝗢𝗙𝗜𝗟𝗘 𝗥𝗔𝗡𝗞𝗜𝗡𝗚 · 𝗡𝗢𝗩𝗘𝗠𝗕𝗘𝗥 𝟮, 𝟮𝟬𝟮𝟲
-  
+  <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol" title="Mihaela Koseva · Global GitHub Ranking #2 · GitScore - Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineer, Sofia"
+     aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">
+    #𝟮 GLOBAL &nbsp;·&nbsp; 𝟵𝟮𝟭 / 𝟭𝟬𝟬𝟬 &nbsp;·&nbsp; 𝗦+
+  </a>
 </h1>
 
 
+<h1 align="center">
+  <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol" title="Mihaela Koseva · GitHub Profile Ranking · Global GitHub Achievement · Software Engineer - Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineer, Sofia"
+     aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">
+    𝗚𝗜𝗧𝗛𝗨𝗕 𝗣𝗥𝗢𝗙𝗜𝗟𝗘 𝗥𝗔𝗡𝗞𝗜𝗡𝗚 · 𝗡𝗢𝗩𝗘𝗠𝗕𝗘𝗥 𝟮, 𝟮𝟬𝟮𝟲
+  </a>
+</h1>
 
 
 

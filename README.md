@@ -287,7 +287,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
  🌍    <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol"
      title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineer, Sofia"
      aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">
-      𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧 · 𝗡𝗢𝗩𝗘𝗠𝗕𝗘𝗥 𝟮 · 𝟮𝟬𝟮𝟲</a>  
+      𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧 · 𝗡𝗢𝗩 · 𝟮𝟬𝟮𝟲</a>  
 </h1>
 
 

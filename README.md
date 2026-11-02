@@ -280,6 +280,61 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<!-- GITSCORE GLOBAL RECOGNITION -->
+
+<h2 align="center">GITSCORE · GLOBAL RECOGNITION</h2>
+
+<p align="center">
+  <strong>#2 GLOBAL</strong> &nbsp;·&nbsp;
+  <strong>921 / 1000</strong> &nbsp;·&nbsp;
+  <strong>S+</strong>
+  <br>
+  <sub>GitHub Profile Ranking · November 2, 2026</sub>
+</p>
+
+<p align="center">
+  <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol">
+    <img
+      src="assets/gitscore-leaderboard.png"
+      alt="GitScore Global Leaderboard — Dreamerol ranked #2"
+      width="100%"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol">
+    <img
+      src="assets/gitscore-Dreamerol.png"
+      alt="Mihaela Koseva — GitScore profile analysis, 921 points, S+"
+      width="100%"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol">
+    <strong>VIEW LIVE GITSCORE PROFILE ↗</strong>
+  </a>
+</p>
+
+<hr>
+
+
+
+
+
+
+
+<br>
+
+<br>
+
+
+
+
+
+
 
 <h2 align="center">⭐ Explore repos & star what you find interesting.</h2>
 

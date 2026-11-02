@@ -284,7 +284,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
   <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol" target="_blank">
     𝗚𝗜𝗧𝗦𝗖𝗢𝗥𝗘 · 𝗚𝗟𝗢𝗕𝗔𝗟 𝗥𝗘𝗖𝗢𝗚𝗡𝗜𝗧𝗜𝗢𝗡
 
-   alt="GitScore Global Leaderboard — Dreamerol ranked #2, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL>"
   </a>
 </h1>
 

@@ -305,7 +305,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 <p align="center">
   <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol">
     <img
-      src="assets/gitscore-Dreamerol.png"
+      src="https://raw.githubusercontent.com/Dreamerol/ALLSTATS/699b647c0350c0bd88c7ee40237ee7b5239e19fa/gitscore-Dreamerol.png"
       alt="Mihaela Koseva — GitScore profile analysis, 921 points, S+"
       width="100%"
     >

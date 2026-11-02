@@ -296,7 +296,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
     <td align="center" width="50%">
       <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol">
         <img
-          src="stats/gitscore-leaderboard.png"
+          src="https://raw.githubusercontent.com/Dreamerol/ALLSTATS/3d270430e0e8f6b460ba6e334b5a39654be72603/gitscore-leaderboard.png"
           alt="GitScore Global Leaderboard — Dreamerol ranked #2"
           width="100%"
         >
@@ -305,7 +305,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
     <td align="center" width="50%">
       <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol">
         <img
-          src="stats/gitscore-Dreamerol.png"
+          src="https://raw.githubusercontent.com/Dreamerol/ALLSTATS/699b647c0350c0bd88c7ee40237ee7b5239e19fa/gitscore-Dreamerol.png"
           alt="Mihaela Koseva — GitScore profile analysis, 921 points, S+"
           width="100%"
         >

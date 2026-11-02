@@ -283,9 +283,9 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 <h1 align="center">GITSCORE · GLOBAL RECOGNITION</h1>
 
 
-<h2 align="center">
+<h1 align="center">
   #2 GLOBAL &nbsp;·&nbsp; 921 / 1000 &nbsp;·&nbsp; S+
-</h2>
+</h1>
 
 <h2 align="center">
   GITHUB PROFILE RANKING · NOVEMBER 2, 2026

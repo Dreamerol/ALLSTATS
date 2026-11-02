@@ -300,10 +300,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
   #𝟮 GLOBAL &nbsp;·&nbsp; 𝟵𝟮𝟭 / 𝟭𝟬𝟬𝟬 &nbsp;·&nbsp; 𝗦+
   </h1>
 
-  <h2 align="center">
+  <h1 align="center">
 
   GITHUB PROFILE RANKING · NOVEMBER 2, 2026
-</h2>
+</h1>
 
 
 

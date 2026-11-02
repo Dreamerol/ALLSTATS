@@ -293,6 +293,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<br>
+
+
+
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -320,11 +324,11 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 <br>
 
 
-<p align="center">
+<h1 align="center">
   <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol">
     <strong>VIEW LIVE GITSCORE PROFILE ↗</strong>
   </a>
-</p>
+</h1>
 
 <hr>
 

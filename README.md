@@ -289,7 +289,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 </h2>
 
 <h2 align="center">
-  <sub>GitHub Profile Ranking · November 2, 2026</sub>
+  GITHUB PROFILE RANKING · NOVEMBER 2, 2026
 </h2>
 
 

@@ -281,18 +281,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <!-- GITSCORE GLOBAL RECOGNITION -->
 
-<h1 align="center">
-  <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol" target="_blank">
-    𝗚𝗜𝗧𝗦𝗖𝗢𝗥𝗘 · 𝗚𝗟𝗢𝗕𝗔𝗟 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧
-  </a>
-</h1>
-
-
-
 
 
 <h1 align="center">
- 🔥 <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol"
+ 🏆 <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol"
      title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineer, Sofia"
      aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">
       𝗚𝗜𝗧𝗦𝗖𝗢𝗥𝗘 · 𝗚𝗟𝗢𝗕𝗔𝗟 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧</a>  

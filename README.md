@@ -288,6 +288,9 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<br>
+
+
 
 <h2 align="center">
   #𝟮 GLOBAL &nbsp;·&nbsp; 𝟵𝟮𝟭 / 𝟭𝟬𝟬𝟬 &nbsp;·&nbsp; 𝗦+
@@ -331,11 +334,11 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 <br>
 
 
-<h2 align="center">
+<h3 align="center">
   <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol">
     <strong>𝗩𝗜𝗘𝗪 𝗟𝗜𝗩𝗘 𝗚𝗜𝗧𝗦𝗖𝗢𝗥𝗘 𝗣𝗥𝗢𝗙𝗜𝗟𝗘 ↗</strong>
   </a>
-</h2>
+</h3>
 
 <hr>
 

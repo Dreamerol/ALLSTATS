@@ -280,7 +280,13 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <!-- GITSCORE GLOBAL RECOGNITION -->
 
-<h1 align="center">𝗚𝗜𝗧𝗦𝗖𝗢𝗥𝗘 · 𝗚𝗟𝗢𝗕𝗔𝗟 𝗥𝗘𝗖𝗢𝗚𝗡𝗜𝗧𝗜𝗢𝗡</h1>
+<h1 align="center">
+  <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol" target="_blank">
+    𝗚𝗜𝗧𝗦𝗖𝗢𝗥𝗘 · 𝗚𝗟𝗢𝗕𝗔𝗟 𝗥𝗘𝗖𝗢𝗚𝗡𝗜𝗧𝗜𝗢𝗡
+
+   alt="GitScore Global Leaderboard — Dreamerol ranked #2, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL>"
+  </a>
+</h1>
 
 
 <h2 align="center">
@@ -304,7 +310,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
       <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol">
         <img
           src="https://raw.githubusercontent.com/Dreamerol/ALLSTATS/3d270430e0e8f6b460ba6e334b5a39654be72603/gitscore-leaderboard.png"
-          alt="GitScore Global Leaderboard — Dreamerol ranked #2"
+          alt="GitScore Global Leaderboard — Dreamerol ranked #2, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL>"
           width="100%"
         >
       </a>
@@ -313,7 +319,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
       <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol">
         <img
           src="https://raw.githubusercontent.com/Dreamerol/ALLSTATS/699b647c0350c0bd88c7ee40237ee7b5239e19fa/gitscore-Dreamerol.png"
-          alt="Mihaela Koseva — GitScore profile analysis, 921 points, S+"
+          alt="Mihaela Koseva — GitScore profile analysis, 921 points, S+, alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL>"
           width="100%"
         >
       </a>

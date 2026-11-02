@@ -293,9 +293,9 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-<h2 align="center">
+<h1 align="center">
   #𝟮 GLOBAL &nbsp;·&nbsp; 𝟵𝟮𝟭 / 𝟭𝟬𝟬𝟬 &nbsp;·&nbsp; 𝗦+
-  </h2>
+  </h1>
 
   <h3 align="center">
 

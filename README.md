@@ -271,7 +271,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-<br><br><br>
+<br><br><br><br>
 
 
 
@@ -280,7 +280,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <!-- GITSCORE GLOBAL RECOGNITION -->
 
-<h2 align="center">GITSCORE · GLOBAL RECOGNITION</h2>
+<h1 align="center">GITSCORE · GLOBAL RECOGNITION</h1>
 
 <p align="center">
   <strong>#2 GLOBAL</strong> &nbsp;·&nbsp;
@@ -329,7 +329,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-<br><br><br>
+<br><br><br><br>
 
 
 

@@ -285,7 +285,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <h1 align="center">
  🌍    <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol"
-     title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineer, Sofia"
+     title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineer, Sofia"
      aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">
       𝗚𝗟𝗢𝗕𝗔𝗟 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧</a>  
 </h1>
@@ -294,7 +294,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 <h1 align="center">
-      🏆   <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol" title="Mihaela Koseva · Global GitHub Ranking #2 · GitScore - Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineer, Sofia"
+      🏆   <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol" title="Mihaela Koseva · Global GitHub Ranking #2 · GitScore - Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineer, Sofia"
      aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">Rank #2 · Global GitScore Leaderboard · 02 · Nov · 2026</a>
 </h1>
 
@@ -313,7 +313,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
       <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol">
         <img
           src="https://raw.githubusercontent.com/Dreamerol/ALLSTATS/3d270430e0e8f6b460ba6e334b5a39654be72603/gitscore-leaderboard.png"
-          alt="GitScore Global Leaderboard — Dreamerol ranked #2, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL>"
+          alt="GitScore Global Leaderboard — Dreamerol ranked #2, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science>"
           width="100%"
         >
       </a>
@@ -322,7 +322,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
       <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol">
         <img
           src="https://raw.githubusercontent.com/Dreamerol/ALLSTATS/699b647c0350c0bd88c7ee40237ee7b5239e19fa/gitscore-Dreamerol.png"
-          alt="GitScore Global Leaderboard — Dreamerol ranked #2, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL>"
+          alt="GitScore Global Leaderboard — Dreamerol ranked #2, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science>"
           width="100%"
         >
       </a>

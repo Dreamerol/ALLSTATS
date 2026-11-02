@@ -336,13 +336,11 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 <h3 align="center">
-  <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol">
+  <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol"
+     title="View Mihaela Koseva's live GitScore profile and Global GitHub Ranking">
     𝗩𝗜𝗘𝗪  𝗟𝗜𝗩𝗘  𝗚𝗜𝗧𝗦𝗖𝗢𝗥𝗘  𝗣𝗥𝗢𝗙𝗜𝗟𝗘
-  </a>↗
+  </a> ↗
 </h3>
-
-
-
 
 
 

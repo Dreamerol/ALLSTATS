@@ -433,30 +433,6 @@ Mihaela Koseva • Sofia University • SMG (СМГ) • Sofia • AI Engineer �
 
 
 
-
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br><br>
-
-
-
-
-
-
 <div align="center">
   <a href="https://github.com/Dreamerol/AI-STUDIO" target="_blank">
     <img

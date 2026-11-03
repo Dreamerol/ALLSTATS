@@ -363,7 +363,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -411,11 +411,9 @@ Mihaela Koseva • Sofia University • SMG (СМГ) • Sofia • AI Engineer �
 
 
 
-
-
-
-
 <br><br><br>
+
+
 
 
 

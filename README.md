@@ -314,7 +314,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
   <img
     src="https://raw.githubusercontent.com/Dreamerol/ALLSTATS/b88c1f3945c4ac7723f8337155535a56e7e61ab3/gitscore-leaderboard%20-%2002%20-11%20-%202026.png"
     alt="GitScore Global Leaderboard — Dreamerol ranked #2, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, Sofia, SMG (СМГ)"
-    width="90%"
+    width="100%"
   >
  
 
@@ -334,7 +334,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
   <img
     src="https://raw.githubusercontent.com/Dreamerol/ALLSTATS/2fbd86b39a68a51b2d7655e5968c331ea6665fd5/gitscore-Dreamerol-Nov-2026%20-%20%232.png"
     alt="GitScore Global Leaderboard — Dreamerol ranked #2, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, Sofia, SMG (СМГ)"
-    width="90%"
+    width="100%"
   >
 
 

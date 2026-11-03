@@ -292,6 +292,18 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+🏆 RANK #2 · Global GitScore Leaderboard · 02 Nov 2026
+
+
+
+<h1 align="center">
+      🏆   <a title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, Sofia, SMG (СМГ)"
+     aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">RANK #2 · Global GitScore Leaderboard · 02 Nov 2026</a>
+</h1>
+
+
+
+
 
 <h1 align="center">
       🏆   <a title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, Sofia, SMG (СМГ)"

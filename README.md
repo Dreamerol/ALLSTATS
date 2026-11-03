@@ -339,7 +339,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <h3 align="center">
   <a href="https://gitscore.mateusz-szostak1.workers.dev/?u=Dreamerol"
-     title="View Mihaela Koseva's live GitScore profile and Global GitHub Ranking, GitScore Global Leaderboard — Dreamerol ranked #2, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, Sofia, SMG (СМГ)">
+     title="View Mihaela Koseva's live GitScore profile and Global GitHub Ranking, GitScore Global Leaderboard — Dreamerol ranked #2, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, SMG (СМГ), Sofia, Bulgaria">
     𝗩𝗜𝗘𝗪  𝗟𝗜𝗩𝗘  𝗚𝗜𝗧𝗦𝗖𝗢𝗥𝗘  𝗣𝗥𝗢𝗙𝗜𝗟𝗘
   </a> ↗
 </h3>
@@ -373,7 +373,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer • Data Systems & APIs • Applied Machine Learning • Computer Vision • Neural Networks • Model Training • Data Science • LLMs • Python • C++ • Java • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps • Git • GitHub: Dreamerol • github.com/Dreamerol
+Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • Bulgaria • AI Engineer • Software Engineer • Data Systems & APIs • Applied Machine Learning • Computer Vision • Neural Networks • Model Training • Data Science • LLMs • Python • C++ • Java • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps • Git • GitHub: Dreamerol • github.com/Dreamerol
 </p>
 
 <p style="font-size:10px; opacity:0.7;">
@@ -436,7 +436,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA-DREAMEROL-AI.jpg"
       width="100%"
-      alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineer, Sofia"
+      alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineer, Sofia, Bulgaria"
     />
   </a>
 </div>

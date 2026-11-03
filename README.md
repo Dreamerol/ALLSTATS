@@ -314,10 +314,13 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
     width="85%"
   >
  
+
+
   
 
 
-<br>
+<br><br>
+
 
 
 

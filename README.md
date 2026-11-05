@@ -310,11 +310,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 </h1>
 
 
-<h1 align="center">
+<h2 align="center">
         <a title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, Sofia, SMG (СМГ)"
-     aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">A meaningful milestone and a wonderful motivation to keep learning,building, and contributing to the global open-source community.<br>
-Truly grateful for this recognition! 🙌</a>
-</h1>
+     aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">A meaningful milestone and a wonderful motivation to keep learning,building, and contributing to the global open-source community. Truly grateful for this recognition! 🙌</a>
+</h2>
 
 
 

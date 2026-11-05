@@ -306,10 +306,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 <br><br>
 
 
-<h2 align="center">
-      🌟   <a title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, Sofia, SMG (СМГ)"
+<h1 align="center">
+        <a title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, Sofia, SMG (СМГ)"
      aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">Score: 921 / 1000 · Performance Grade: S+</a>
-</h2>
+</h1>
 
 
 <br>

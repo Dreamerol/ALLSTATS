@@ -304,16 +304,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-<h1 align="center">
-        <a title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, Sofia, SMG (СМГ)"
-     aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">Score: 921 / 1000 · Performance Grade: S+</a>
-</h1>
-
-
-<h2 align="center">
-        <a title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, Sofia, SMG (СМГ)"
-     aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">A meaningful milestone and a wonderful motivation to keep learning,building, and contributing to the global open-source community. Truly grateful for this recognition! 🙌</a>
-</h2>
 
 
 
@@ -372,6 +362,23 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
     𝗩𝗶𝗲𝘄 𝗟𝗶𝘃𝗲 𝗚𝗶𝘁𝗦𝗰𝗼𝗿𝗲 𝗣𝗿𝗼𝗳𝗶𝗹𝗲
   </a> ↗
 </h1>
+
+
+
+  
+<br><br>
+
+
+<h1 align="center">
+        <a title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, Sofia, SMG (СМГ)"
+     aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">Score: 921 / 1000 · Performance Grade: S+</a>
+</h1>
+
+
+<h3 align="center">
+        <a title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, Sofia, SMG (СМГ)"
+     aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">A meaningful milestone and a wonderful motivation to keep learning,building, and contributing to the global open-source community. Truly grateful for this recognition! 🙌</a>
+</h3>
 
 
 

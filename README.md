@@ -364,37 +364,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-<br>
-
-
-
-<h2>
-  Score: 921 / 1000 · Performance Grade: S+ · 02 Nov 2026
-</h2>
-
-<br>
-
-<p>
-  <strong>
-    A meaningful milestone and a wonderful motivation to keep
-    learning, building, and contributing to the global open-source
-    community. Truly grateful for this recognition! 💛 ✨
-  </strong>
-</p>
-
-</div>
-
-<br><br>
-
-<!-- END GITSCORE GLOBAL RECOGNITION -->
-
-
-
-
-
-
-
-
 
   
 <br>
@@ -418,6 +387,11 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
      aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">A meaningful milestone and a wonderful motivation to keep learning, building, and contributing to the global open-source community. Truly grateful for this recognition! 💛 ✨</a>
 </h2>
 
+
+
+
+
+<!-- END GITSCORE GLOBAL RECOGNITION -->
 
 
 

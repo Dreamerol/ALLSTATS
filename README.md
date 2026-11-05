@@ -308,7 +308,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <h2 align="center">
       🌟   <a title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, Sofia, SMG (СМГ)"
-     aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">Score: 921 / 1000 · Performance Grade: S+ · 02 Nov 2026</a>
+     aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">Score: 921 / 1000 · Performance Grade: S+</a>
 </h2>
 
 
@@ -317,7 +317,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 <h2 align="center">
-      🌟   <a title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, Sofia, SMG (СМГ)"
+      <a title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, Sofia, SMG (СМГ)"
      aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">A meaningful milestone and a wonderful motivation to keep learning,
 building, and contributing to the global open-source community.
 <br>

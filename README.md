@@ -293,12 +293,14 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+🏆 𝗥𝗘𝗔𝗖𝗛𝗘𝗗 𝗚𝗟𝗢𝗕𝗔𝗟 𝗥𝗔𝗡𝗞 #𝟯 — 𝗚𝗶𝘁𝗦𝗰𝗼𝗿𝗲 𝗚𝗹𝗼𝗯𝗮𝗹 𝗟𝗲𝗮𝗱𝗲𝗿𝗯𝗼𝗮𝗿𝗱
+
 
 
 
 <h1 align="center">
       🏆   <a title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Computer Vision Engineer, Sofia, SMG (СМГ)"
-     aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">Rank #2 · Global GitScore Leaderboard</a>
+     aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia">𝗥𝗘𝗔𝗖𝗛𝗘𝗗 𝗚𝗟𝗢𝗕𝗔𝗟 𝗥𝗔𝗡𝗞 #2 · Global GitScore Leaderboard</a>
 </h1>
 
 

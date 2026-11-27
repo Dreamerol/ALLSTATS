@@ -346,20 +346,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-  
-<br>
-
-
-
-<h2 align="center">
-  ⭐ GitScore: 921 / 1000 &nbsp;·&nbsp; 🏅 Performance Grade: S+ &nbsp;·&nbsp; 📅 Date: 01 November 2026
-</h2>
-
-
-</div>
-
-
-
 
 
 <br>
